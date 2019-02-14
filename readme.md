@@ -1,7 +1,7 @@
 
 ## Contents
 
-- [Design Patterns](#Design Patterns)
+- [Design Patterns](#design-patterns)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
