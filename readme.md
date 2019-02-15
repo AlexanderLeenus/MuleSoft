@@ -109,7 +109,7 @@
 
 ## Anypoint Connectors
 
-### SAP
+#### SAP
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
