@@ -187,7 +187,7 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Use Cases
-- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [Creating a System API Using MuleSoft](https://dzone.com/articles/creating-system-api-using-mulesoft)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
