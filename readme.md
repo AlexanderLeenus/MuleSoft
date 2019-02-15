@@ -7,7 +7,7 @@
 - [Miscellaneous](#miscellaneous)
 
 
-## Enterprise Integration Patterns
+## Design Patterns
 
 - [Why Enterprise Integration Patterns?](https://www.enterpriseintegrationpatterns.com/patterns/messaging/) - Why Enterprise Integration Patterns?.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
@@ -16,6 +16,7 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
+## MuleESB
 
 ## API Best Practices
 
@@ -56,7 +57,16 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-## Deploy Integration
+## DataWeave Language 
+
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+
+
+## Run Time Management
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -95,8 +105,7 @@
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
 
-
-## Manage Integration
+## Anypoint API Manager
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -112,7 +121,7 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-## Templates
+## Anypoint Templates
 
 
 ##  Miscellaneous
