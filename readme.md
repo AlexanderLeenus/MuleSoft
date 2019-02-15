@@ -26,35 +26,36 @@
 - [Miscellaneous](#miscellaneous)
 
 
-## Design Patterns
+## Enterprise Integration Patterns
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Why Enterprise Integration Patterns?](https://www.enterpriseintegrationpatterns.com/patterns/messaging/) - Why Enterprise Integration Patterns?.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+
 
 
 ## Service Oriented Architecture
 
-- [Microservices vs. SOA](https://dzone.com/articles/microservices-vs-soa-is-there-any-difference-at-al) - Microservices vs. SOA – Is There Any Difference at All?.
+- [Microservices vs. SOA](https://dzone.com/articles/microservices-vs-soa-is-there-any-difference-at-al) - Microservices vs. SOA – Is There Any Difference at All?
+- [Official Service-Oriented Principles Poster](http://serviceorientation.com/static/pdf/SOA_Principles_Poster.pdf)
+
+
 
 ## API Best Practices
-
-## Design & Build Integration
 
 ## Anypoint Exchange
 
 ## Anypoint Platform
 
-## Deploy Integration
+## Design & Build Integration
 
-## Manage Integration
+## Deploy Integration
 
 ## Test Integration
 
-## Additional Resources
+## Manage Integration
+
+##  Miscellaneous
 
 ## License
 
