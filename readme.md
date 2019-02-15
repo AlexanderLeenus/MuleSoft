@@ -43,7 +43,7 @@
 
 ## API Best Practices
 
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [Principles for API Development](https://www.mulesoft.com/resources/api/development-best-practices)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
