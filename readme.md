@@ -55,6 +55,10 @@
 
 ## Manage Integration
 
+## Security
+
+- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
+
 ##  Miscellaneous
 
 ## License
