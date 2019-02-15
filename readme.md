@@ -4,27 +4,27 @@
 - [Design Patterns](#design-patterns)
 - [Core Mule ESB](#core-mule-esb)
 - [API Best Practices](#api-best-practices)
-- [Design Approach]
-- [Anypoint Design Center]
-- [Anypoint Exchange]
-- [Anypoint Studio]
-- [Access Management]
-- [Design & Build Integration]
-- [DataWeave Language]
-- [Runtime Manager]
-- [API Testing]
-- [Anypoint Connectors]
-- [Anypoint API Manager]
-- [Anypoint Security]
-- [Data Gateway]
-- [Visualizer]
-- [Secrets Manager]
-- [Anypoint Templates]
-- [Development Tools]
-- [Project Management]
-- [Use Cases]
-- [Training Materials]
-- [MuleSoft Courses]
+- [Design Approach](#design-approach)
+- [Anypoint Design Center](#anypoint-design-center)
+- [Anypoint Exchange](#anypoint-exchange)
+- [Anypoint Studio](#anypoint-studio)
+- [Access Management](#access-management)
+- [Design & Build Integration](#design-&-build-integration)
+- [DataWeave Language](#dataWeave-language)
+- [Runtime Manager](#runtime-manager)
+- [API Testing](#api-testing)
+- [Anypoint Connectors](#anypoint-connectors)
+- [Anypoint API Manager](#anypoint-api-manager)
+- [Anypoint Security](#anypoint-security)
+- [Data Gateway](#data-gateway)
+- [Visualizer](#visualizer)
+- [Secrets Manager](#secrets-manager)
+- [Anypoint Templates](#anypoint-templates)
+- [Development Tools](#development-tools)
+- [Project Management](#project-management)
+- [Use Cases](#use-cases)
+- [Training Materials](#training-materials)
+- [MuleSoft Courses](#muleSoft-courses)
 - [Miscellaneous](#miscellaneous)
 
 
