@@ -59,10 +59,8 @@
 
 - [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
 - [Implement OAuth2.0 in Mule](https://dzone.com/articles/steps-to-implement-oauth-20-in-mule-applications) - Steps to Implement OAuth2.0 in Mule Applications
-- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
-- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
-- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
-- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
+- [Mule Credential Vault](https://dzone.com/articles/mule-credential-vault) - Mule Credential Vault
+
 
 ##  Miscellaneous
 
