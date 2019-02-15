@@ -17,16 +17,15 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 
+## API Best Practices
 
-## Service Oriented Architecture
-
-- [Microservices vs. SOA](https://dzone.com/articles/microservices-vs-soa-is-there-any-difference-at-al) - Microservices vs. SOA – Is There Any Difference at All?
-- [Official Service-Oriented Principles Poster](http://serviceorientation.com/static/pdf/SOA_Principles_Poster.pdf)
-- [Microservices: The Good, the Bad, and the Ugly](https://dzone.com/articles/microservices-the-good-the-bad-and-the-ugly)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-
-## API Best Practices
+## Anypoint Designer
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -42,13 +41,6 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-## Anypoint Platform
-
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Design & Build Integration
 
@@ -82,7 +74,7 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-## Security
+## Anypoint Security
 
 - [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
 - [Implement OAuth2.0 in Mule](https://dzone.com/articles/steps-to-implement-oauth-20-in-mule-applications) - Steps to Implement OAuth2.0 in Mule Applications
@@ -90,11 +82,15 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
+## Templates
+
+## Anypoint Connectors
+### [SAP Integration With MuleSoft]
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
 ## SAP Integration
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+
 
 ##  Miscellaneous
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
