@@ -2,8 +2,27 @@
 ## Contents
 
 - [Design Patterns](#design-patterns)
-- [Service Oriented Architecture](#service-oriented-architecture)
+- [Core Mule ESB](#core-mule-esb)
 - [API Best Practices](#api-best-practices)
+- [Design Approach]
+- [Anypoint Design Center]
+- [Anypoint Exchange]
+- [Anypoint Studio]
+- [Access Management]
+- [Design & Build Integration]
+- [DataWeave Language]
+- [Runtime Manager]
+- [API Testing]
+- [Anypoint Connectors]
+- [Anypoint API Manager]
+- [Anypoint Security]
+- [Data Gateway]
+- [Visualizer]
+- [Secrets Manager]
+- [Anypoint Templates]
+- [Development Tools]
+- [Project Management]
+- [Business Requirements]
 - [Miscellaneous](#miscellaneous)
 
 
@@ -123,6 +142,9 @@
 
 ## Anypoint Templates
 
+## Training Materials
+
+## MuleSoft Courses
 
 ##  Miscellaneous
 - [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
