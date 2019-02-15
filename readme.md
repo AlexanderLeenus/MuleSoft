@@ -38,7 +38,7 @@
 - [Microservices vs. SOA](https://dzone.com/articles/microservices-vs-soa-is-there-any-difference-at-al) - Microservices vs. SOA – Is There Any Difference at All?
 - [Official Service-Oriented Principles Poster](http://serviceorientation.com/static/pdf/SOA_Principles_Poster.pdf)
 - [Microservices: The Good, the Bad, and the Ugly](https://dzone.com/articles/microservices-the-good-the-bad-and-the-ugly)
-
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 
 ## API Best Practices
@@ -57,6 +57,11 @@
 
 ## Security
 
+- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
+- [Implement OAuth2.0 in Mule](https://dzone.com/articles/steps-to-implement-oauth-20-in-mule-applications) - Steps to Implement OAuth2.0 in Mule Applications
+- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
+- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
+- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
 - [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
 
 ##  Miscellaneous
