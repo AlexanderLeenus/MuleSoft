@@ -30,11 +30,9 @@
 
 ## Design Patterns
 
-- [Why Enterprise Integration Patterns?](https://www.enterpriseintegrationpatterns.com/patterns/messaging/) - Why Enterprise Integration Patterns?.
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
-	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [Why Enterprise Integration Patterns?](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
+- [Understanding Enterprise Integration Patterns](https://dzone.com/articles/enterprise-integration)
+- [Reliability Pattern in Mule](https://dzone.com/articles/reliability-patter-in-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Core Mule ESB
@@ -48,10 +46,12 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Design Approach
+- [Architecture Evolution With Mulesoft](https://dzone.com/articles/architectures-evolution-with-mulesoft)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Anypoint Design Center
 
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-First Design Using MuleSoft’s Anypoint Platform](https://dzone.com/articles/api-first-design-approach-using-mulesofts-anypoint)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -84,7 +84,7 @@
 
 ## DataWeave Language 
 
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [CSV | XML | JSON in MuleSoft](https://dzone.com/articles/csv-xml-json-in-mulesoft)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -129,6 +129,9 @@
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
+### Social Media
+- [MuleSoft Integration With Twilio](https://dzone.com/articles/mulesoft-integration-with-twilio)
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
 ## Anypoint API Manager
 
