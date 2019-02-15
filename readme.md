@@ -66,6 +66,22 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
+## Anypoint Connectors
+
+### SAP
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+
+### Salesforce
+
+### Databases
+
+### Amazon
+
+### Elasticserach
+
+
+
 ## Manage Integration
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -83,13 +99,6 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Templates
-
-## Anypoint Connectors
-### [SAP Integration With MuleSoft]
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
-
-## SAP Integration
 
 
 ##  Miscellaneous
