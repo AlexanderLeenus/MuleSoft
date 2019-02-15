@@ -140,6 +140,9 @@
 - [MuleSoft Integration With Twilio](https://dzone.com/articles/mulesoft-integration-with-twilio)
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
+### JMS Connector
+- [Anypoint JMS Connector With Mulesoft](https://dzone.com/articles/anypoint-jms-connector-with-mulesoft)
+
 ## Anypoint API Manager
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
