@@ -35,7 +35,7 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-## MuleESB
+## Core Mule ESB
 
 ## API Best Practices
 
@@ -45,7 +45,9 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-## Anypoint Designer
+## Design Approach
+
+## Anypoint Design Center
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -68,6 +70,8 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
+## Access Management
+
 ## Design & Build Integration
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -85,7 +89,7 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 
-## Run Time Management
+## Runtime Manager
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -93,7 +97,7 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-## Test Integration
+## API Testing
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -140,7 +144,17 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
+## Data Gateway
+
+## Visualizer
+
+## Secrets Manager
+
 ## Anypoint Templates
+
+## Development Tools
+
+## Project Management
 
 ## Training Materials
 
