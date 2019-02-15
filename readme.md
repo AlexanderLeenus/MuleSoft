@@ -41,6 +41,12 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
+## Anypoint Studio
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Design & Build Integration
 
@@ -73,12 +79,20 @@
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
 ### Salesforce
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
 ### Databases
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
 ### Amazon
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
 ### Elasticserach
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
 
 
@@ -102,7 +116,7 @@
 
 
 ##  Miscellaneous
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
