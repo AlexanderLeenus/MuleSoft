@@ -22,7 +22,9 @@
 - [Anypoint Templates]
 - [Development Tools]
 - [Project Management]
-- [Business Requirements]
+- [Use Cases]
+- [Training Materials]
+- [MuleSoft Courses]
 - [Miscellaneous](#miscellaneous)
 
 
@@ -145,22 +147,51 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Data Gateway
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Visualizer
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Secrets Manager
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Anypoint Templates
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Development Tools
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Project Management
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+
+## Use Cases
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Training Materials
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## MuleSoft Courses
+- [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-##  Miscellaneous
+## Miscellaneous
 - [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
