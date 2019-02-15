@@ -28,14 +28,18 @@
 - [Miscellaneous](#miscellaneous)
 
 
-## Design Patterns
+## Integration Design Patterns
 
 - [Why Enterprise Integration Patterns?](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
 - [Understanding Enterprise Integration Patterns](https://dzone.com/articles/enterprise-integration)
 - [Reliability Pattern in Mule](https://dzone.com/articles/reliability-patter-in-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [Understanding the Importance of EAI](https://dzone.com/articles/understanding-the-importance-of-eai)
 
 ## Core Mule ESB
+- [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
+- [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
+- [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
 
 ## API Best Practices
 
@@ -66,7 +70,7 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Anypoint Studio
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [A Beginner's Guide to Mule](https://dzone.com/articles/mule-application-building-blocks)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -109,7 +113,10 @@
 
 ## Anypoint Connectors
 
-#### SAP
+### Custom Connectors
+- [How to Build a Custom Connector in MuleSoft](https://dzone.com/articles/how-to-build-a-custom-connector-in-mulesoft)
+
+### SAP
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
