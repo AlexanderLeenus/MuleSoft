@@ -37,6 +37,7 @@
 - [Understanding the Importance of EAI](https://dzone.com/articles/understanding-the-importance-of-eai)
 
 ## Core Mule ESB
+- [Mule ESB - Most Popular Enterprise Service Bus](https://dzone.com/articles/mule-esb-most-popular)
 - [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
 - [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
 - [Mule in a Nutshell](https://dzone.com/refcardz/core-mule?chapter=1)
@@ -47,6 +48,9 @@
 - [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
 - [Types of Anypoint Filters With Mulesoft](https://dzone.com/articles/different-types-of-anypoint-filters-in-mulesoft)
 - [Mule ESB in Docker](https://dzone.com/articles/mule-esb-docker)
+- [Using Drools in Mule ESB](https://dzone.com/articles/drools-in-mule-esb-1)
+- [Scatter-Gather in Mule ESB](https://dzone.com/articles/scatter-gather-mule-esb)
+- [Connecting Apache Kafka With Mule ESB](https://dzone.com/articles/connecting-apache-kafka-with-mule-esb)
 
 
 
@@ -59,9 +63,15 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Design Approach
+- [Understanding API Design](https://dzone.com/articles/understanding-api-design)
 - [Architecture Evolution With Mulesoft](https://dzone.com/articles/architectures-evolution-with-mulesoft)
 - [Service Oriented Architecture ](https://github.com/AlexanderLeenus/SOA)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [MuleSoft API Lifecycle Management](https://dzone.com/articles/mulesoft-api-management-life-cycle)
+- [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
+- [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
+- [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
+
 
 ## Anypoint Design Center
 
