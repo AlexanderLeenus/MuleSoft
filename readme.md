@@ -63,6 +63,7 @@
 - [Creating an API Specification in a Design Center](https://dzone.com/articles/creating-an-api-specification-in-design-center)
 - [How to Design a RAML-Based REST API With Mulesoft Anypoint API Manager](https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint)
 - [MuleSoft With OpenAPI Specification](https://dzone.com/articles/mulesoft-with-open-api-specification-oas)
+- [Designing APIs With RAML](https://dzone.com/articles/designing-api-with-raml)
 
 
 ## Anypoint Exchange
