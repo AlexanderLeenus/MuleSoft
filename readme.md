@@ -118,7 +118,8 @@
 
 ### SAP
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [How to Strengthen eCommerce With SAP Hybris and Anypoint Platform](https://dzone.com/articles/how-to-strengthen-ecommerce-with-sap-hybris-and-an)
+- [SAP Integration in Mule ESB](https://dzone.com/articles/sap-integration-within-mule-esb)
 
 ### Salesforce
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
@@ -130,8 +131,7 @@
 
 ### Amazon
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
-- [How to Strengthen eCommerce With SAP Hybris and Anypoint Platform](https://dzone.com/articles/how-to-strengthen-ecommerce-with-sap-hybris-and-an)
-- [SAP Integration in Mule ESB](https://dzone.com/articles/sap-integration-within-mule-esb)
+
 
 ### Elasticserach
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
