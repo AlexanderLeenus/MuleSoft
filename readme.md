@@ -164,19 +164,21 @@
 - [How to Strengthen eCommerce With SAP Hybris and Anypoint Platform](https://dzone.com/articles/how-to-strengthen-ecommerce-with-sap-hybris-and-an)
 - [SAP Integration in Mule ESB](https://dzone.com/articles/sap-integration-within-mule-esb)
 - [SAP to Salesforce Integration Using MuleSoft](https://www.youtube.com/watch?v=ugB0h9MWLYM)
-- [Best practices for SAP application integration projects](https://www.mulesoft.com/lp/whitepaper/soa/sap)
+- [Best practices for SAP application integration projects](https://dzone.com/articles/salesforce-integration-using-mulesoft-salesforce-c)
 - [Interface In between SAP and MULESOFT](https://blogs.sap.com/2017/05/16/interface-in-between-sap-and-mulesoft/)
 
 ### Salesforce
 - [How to Integrate SalesForce With Mule](https://dzone.com/articles/salesforce-connector-with-anypoint-mulesoft-1)
 - [MuleSoft, Salesforce UPSERT](https://dzone.com/articles/mulesoft-salesforce-crud-2)
+- [Salesforce Integration With MuleSoft Salesforce Connector](https://dzone.com/articles/mulesoft-salesforce-crud-2)
+- [MuleSoft Salesforce Connector: OAuth 2.0 JWT Bearer](https://dzone.com/articles/mulesoft-salesforce-connector-oauth-20-jwt-bearer)
 
 ### Databases
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [MongoDB Connector for Hadoop 1.4](https://dzone.com/articles/mongodb-connector-for-hadoop-14)
+- [Mule 4: Database Connector Bulk Insert](https://dzone.com/articles/mule-4-database-connector-bulk-insert)
 
 ### Amazon
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [Introducing Anypoint Connector for Amazon EC2](https://dzone.com/articles/introducing-anypoint-connector-for-amazon-ec2)
 
 ### Kafka
 - [Using Mule With Kafka Connector](https://dzone.com/articles/using-mule-with-kafka-connector-from-nettaptech)
@@ -190,7 +192,7 @@
 
 ### Social Media
 - [MuleSoft Integration With Twilio](https://dzone.com/articles/mulesoft-integration-with-twilio)
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [Slack Connector in MULE ESB](https://dzone.com/articles/slack-connector-in-mule-esb)
 
 ### JMS Connector
 - [Anypoint JMS Connector With Mulesoft](https://dzone.com/articles/anypoint-jms-connector-with-mulesoft)
