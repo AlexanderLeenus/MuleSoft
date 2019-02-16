@@ -120,6 +120,9 @@
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 - [How to Strengthen eCommerce With SAP Hybris and Anypoint Platform](https://dzone.com/articles/how-to-strengthen-ecommerce-with-sap-hybris-and-an)
 - [SAP Integration in Mule ESB](https://dzone.com/articles/sap-integration-within-mule-esb)
+- [SAP to Salesforce Integration Using MuleSoft](https://www.youtube.com/watch?v=ugB0h9MWLYM)
+- [Best practices for SAP application integration projects](https://www.mulesoft.com/lp/whitepaper/soa/sap)
+- [Interface In between SAP and MULESOFT](https://blogs.sap.com/2017/05/16/interface-in-between-sap-and-mulesoft/)
 
 ### Salesforce
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
