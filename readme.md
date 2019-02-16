@@ -64,6 +64,11 @@
 - [How to Design a RAML-Based REST API With Mulesoft Anypoint API Manager](https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint)
 - [MuleSoft With OpenAPI Specification](https://dzone.com/articles/mulesoft-with-open-api-specification-oas)
 - [Designing APIs With RAML](https://dzone.com/articles/designing-api-with-raml)
+- [Swagger, RAML, and Open API](https://dzone.com/articles/rest-api-documentation-part-2-1)
+- [Converting Swagger to RAML](https://dzone.com/articles/converting-swagger-to-raml)
+- [RAML or OpenAPI - How About Both?](https://dzone.com/articles/raml-or-openapi-how-about-both)
+- [Understanding Resource Types and Traits With RAML](https://dzone.com/articles/understanding-resourcetypes-and-traits-with-raml)
+
 
 
 ## Anypoint Exchange
