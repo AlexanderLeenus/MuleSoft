@@ -144,6 +144,20 @@
 
 ### Custom Connectors
 - [How to Build a Custom Connector in MuleSoft](https://dzone.com/articles/how-to-build-a-custom-connector-in-mulesoft)
+- [How to Build a Custom Mule Connector in Java](https://dzone.com/articles/building-a-custom-mule-connector)
+- [How to Create Mule Connectors](https://dzone.com/articles/creating-mule-connectors)
+- [MuleSoft Creating Custom Component/Connector](https://dzone.com/articles/mulesoft-creating-custom-componentconnector)
+
+
+### HTTP Connectors
+- [Configure an HTTP Connector as a Listener](https://dzone.com/articles/mulesoft-http-connector)
+
+### CloudHub
+- [CloudHub Connector With Mulesoft](https://dzone.com/articles/cloudhub-connector-with-mulesoft)
+
+### File Connectors
+- [FTP Connector With Mule ESB](https://dzone.com/articles/ftp-connector-with-mule-esb)
+- [Anypoint File Connector With Mulesoft](https://dzone.com/articles/anypoint-file-connector-with-mulesoft)
 
 ### SAP
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
@@ -154,8 +168,8 @@
 - [Interface In between SAP and MULESOFT](https://blogs.sap.com/2017/05/16/interface-in-between-sap-and-mulesoft/)
 
 ### Salesforce
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+- [How to Integrate SalesForce With Mule](https://dzone.com/articles/salesforce-connector-with-anypoint-mulesoft-1)
+- [MuleSoft, Salesforce UPSERT](https://dzone.com/articles/mulesoft-salesforce-crud-2)
 
 ### Databases
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
@@ -164,6 +178,11 @@
 ### Amazon
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
+### Kafka
+- [Using Mule With Kafka Connector](https://dzone.com/articles/using-mule-with-kafka-connector-from-nettaptech)
+
+### ServiceNow
+- [How to Work With the ServiceNow Connector in MuleSoft](https://dzone.com/articles/mulesoft-integration-with-servicenow)
 
 ### Elasticserach
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
