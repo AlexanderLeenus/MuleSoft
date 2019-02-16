@@ -60,7 +60,10 @@
 - [Designing APIs/RAML With MuleSoft](https://dzone.com/articles/designing-raml-with-mulesoft)
 - [Changing Requirements to Design in RAML 1.0](https://dzone.com/articles/changing-requirements-to-design-in-raml-10)
 - [Validation Against RAML Using MuleSoft APIkit Router](https://dzone.com/articles/validation-against-raml-using-mulesoft-apikit-rout)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [Creating an API Specification in a Design Center](https://dzone.com/articles/creating-an-api-specification-in-design-center)
+- [How to Design a RAML-Based REST API With Mulesoft Anypoint API Manager](https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint)
+- [MuleSoft With OpenAPI Specification](https://dzone.com/articles/mulesoft-with-open-api-specification-oas)
+
 
 ## Anypoint Exchange
 
