@@ -39,7 +39,16 @@
 ## Core Mule ESB
 - [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
 - [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
-- [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
+- [Mule in a Nutshell](https://dzone.com/refcardz/core-mule?chapter=1)
+- [Mule Message Data and Expression Language](https://dzone.com/articles/mule-message-data-and-expression-language)
+- [Demonstrating Domain Projects in MuleSoft](https://dzone.com/articles/demonstrating-domain-projects-in-mulesoft-1)
+- [Implementing Object Store With Mule ESB](https://dzone.com/articles/object-store-with-mule-esb)
+- [First Successful Router in Mule](https://dzone.com/articles/first-successful-router-in-mule)
+- [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
+- [Types of Anypoint Filters With Mulesoft](https://dzone.com/articles/different-types-of-anypoint-filters-in-mulesoft)
+- [Mule ESB in Docker](https://dzone.com/articles/mule-esb-docker)
+
+
 
 ## API Best Practices
 
