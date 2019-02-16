@@ -148,16 +148,12 @@
 - [How to Create Mule Connectors](https://dzone.com/articles/creating-mule-connectors)
 - [MuleSoft Creating Custom Component/Connector](https://dzone.com/articles/mulesoft-creating-custom-componentconnector)
 
-
-### HTTP Connectors
+### General
 - [Configure an HTTP Connector as a Listener](https://dzone.com/articles/mulesoft-http-connector)
-
-### CloudHub
-- [CloudHub Connector With Mulesoft](https://dzone.com/articles/cloudhub-connector-with-mulesoft)
-
-### File Connectors
 - [FTP Connector With Mule ESB](https://dzone.com/articles/ftp-connector-with-mule-esb)
 - [Anypoint File Connector With Mulesoft](https://dzone.com/articles/anypoint-file-connector-with-mulesoft)
+- [CloudHub Connector With Mulesoft](https://dzone.com/articles/cloudhub-connector-with-mulesoft)
+- [Email Connector in Mule 4.0](https://dzone.com/articles/email-connector-in-mule-40)
 
 ### SAP
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
@@ -172,6 +168,7 @@
 - [MuleSoft, Salesforce UPSERT](https://dzone.com/articles/mulesoft-salesforce-crud-2)
 - [Salesforce Integration With MuleSoft Salesforce Connector](https://dzone.com/articles/mulesoft-salesforce-crud-2)
 - [MuleSoft Salesforce Connector: OAuth 2.0 JWT Bearer](https://dzone.com/articles/mulesoft-salesforce-connector-oauth-20-jwt-bearer)
+- [How to Use Platform Events With MuleSoft's Salesforce Connector](https://dzone.com/articles/how-to-use-platform-events-with-mulesofts-salesfor)
 
 ### Databases
 - [MongoDB Connector for Hadoop 1.4](https://dzone.com/articles/mongodb-connector-for-hadoop-14)
@@ -180,9 +177,6 @@
 ### Amazon
 - [Introducing Anypoint Connector for Amazon EC2](https://dzone.com/articles/introducing-anypoint-connector-for-amazon-ec2)
 
-### Kafka
-- [Using Mule With Kafka Connector](https://dzone.com/articles/using-mule-with-kafka-connector-from-nettaptech)
-
 ### ServiceNow
 - [How to Work With the ServiceNow Connector in MuleSoft](https://dzone.com/articles/mulesoft-integration-with-servicenow)
 
@@ -190,12 +184,18 @@
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
+### Microsoft
+- [CRUD Operations using Microsoft Dynamic 365 Connector in Mule](https://dzone.com/articles/crud-operations-using-microsoft-dynamic-365-connec)
+
 ### Social Media
 - [MuleSoft Integration With Twilio](https://dzone.com/articles/mulesoft-integration-with-twilio)
 - [Slack Connector in MULE ESB](https://dzone.com/articles/slack-connector-in-mule-esb)
 
 ### JMS Connector
 - [Anypoint JMS Connector With Mulesoft](https://dzone.com/articles/anypoint-jms-connector-with-mulesoft)
+- [Using Mule With Kafka Connector](https://dzone.com/articles/using-mule-with-kafka-connector-from-nettaptech)
+- [Anypoint JMS Connector With Mulesoft](https://dzone.com/articles/anypoint-jms-connector-with-mulesoft)
+
 
 ## Anypoint API Manager
 
