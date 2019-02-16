@@ -51,6 +51,7 @@
 
 ## Design Approach
 - [Architecture Evolution With Mulesoft](https://dzone.com/articles/architectures-evolution-with-mulesoft)
+- [Service Oriented Architecture ](https://github.com/AlexanderLeenus/SOA)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Anypoint Design Center
