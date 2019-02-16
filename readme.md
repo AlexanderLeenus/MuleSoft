@@ -71,7 +71,7 @@
 
 ## Anypoint Studio
 - [A Beginner's Guide to Mule](https://dzone.com/articles/mule-application-building-blocks)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [Creating a Mule ESB Sample Application](https://dzone.com/articles/mule-sample-application)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
