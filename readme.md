@@ -9,7 +9,7 @@
 - [Anypoint Exchange](#anypoint-exchange)
 - [Anypoint Studio](#anypoint-studio)
 - [Access Management](#access-management)
-- [Design & Build Integration](#design-&-build-integration)
+- [Design & Build Integration](#design-build-integration)
 - [DataWeave Language](#dataWeave-language)
 - [Runtime Manager](#runtime-manager)
 - [API Testing](#api-testing)
@@ -23,8 +23,8 @@
 - [Development Tools](#development-tools)
 - [Project Management](#project-management)
 - [Use Cases](#use-cases)
-- [Training Materials](#training-materials)
-- [MuleSoft Courses](#muleSoft-courses)
+- [Trainings & Courses](#training-courses)
+- [MuleSoft Certifications](#muleSoft-certifications)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -198,12 +198,12 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-## Training Materials
+## Trainings & Courses
 - [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
-## MuleSoft Courses
+## MuleSoft Certifications
 - [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
