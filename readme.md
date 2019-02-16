@@ -57,9 +57,9 @@
 ## Anypoint Design Center
 
 - [API-First Design Using MuleSoft’s Anypoint Platform](https://dzone.com/articles/api-first-design-approach-using-mulesofts-anypoint)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [Designing APIs/RAML With MuleSoft](https://dzone.com/articles/designing-raml-with-mulesoft)
+- [Changing Requirements to Design in RAML 1.0](https://dzone.com/articles/changing-requirements-to-design-in-raml-10)
+- [Validation Against RAML Using MuleSoft APIkit Router](https://dzone.com/articles/validation-against-raml-using-mulesoft-apikit-rout)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Anypoint Exchange
