@@ -58,6 +58,14 @@
 - [MuleSoft's Scope of Session and Flow Variables](https://dzone.com/articles/scope-of-session-and-flow-variables)
 - [MuleSoft Poll Scope and Watermark](https://dzone.com/articles/mulesoft-polling-scope-and-watermark)
 - [Cache Implementation in MuleSoft](https://dzone.com/articles/cache-implementation-in-mulesoft)
+- [Multicasting (Scatter-Gather) Messages With MuleSoft](https://dzone.com/articles/multicasting-scatter-gather-messages-with-mulesoft)
+- [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
+- [MuleSoft Polling-As-A-Service](https://dzone.com/articles/mulesoft-polling-as-a-service)
+- [Concurrently Processing Split Payloads and Collecting Result in MuleSoft](https://dzone.com/articles/concurrently-processing-of-split-payload-and-colle)
+- [Splitter and Collection Aggregator With Mulesoft](https://dzone.com/articles/mulesoft-polling-as-a-service)
+- [MuleSoft Polling-As-A-Service](https://dzone.com/articles/splitter-and-collection-aggregator-with-mulesoft)
+- [Types of Exception Strategies in MuleSoft Anypoint Studio](https://dzone.com/articles/what-are-different-types-of-exception-strategy-in)
+- [Types of Anypoint Filters With Mulesoft](https://dzone.com/articles/different-types-of-anypoint-filters-in-mulesoft)
 
 
 
@@ -108,23 +116,18 @@
 ## Anypoint Studio
 - [A Beginner's Guide to Mule](https://dzone.com/articles/mule-application-building-blocks)
 - [Creating a Mule ESB Sample Application](https://dzone.com/articles/mule-sample-application)
-
+- [Transaction Management in MuleSoft/Anypoint Studio](https://dzone.com/articles/transaction-management-in-mulesoft)
 
 ## Access Management
 
 ## Design & Build Integration
 
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## DataWeave Language 
 
 - [CSV | XML | JSON in MuleSoft](https://dzone.com/articles/csv-xml-json-in-mulesoft)
-
-
+- [MuleSoft Dataweave Language: Reading Properties From Files Dynamically](https://dzone.com/articles/mulesoft-dataweave-language-reading-properties-fro)
+- [MuleSoft: Parse a Flat File to Copybook](https://dzone.com/articles/mulesoft-parse-flat-file-to-copybook)
 
 
 ## Runtime Manager
@@ -137,7 +140,7 @@
 
 ## API Testing
 
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [Mocking Database Endpoints in MUnit Tests](https://dzone.com/articles/mulesoft-mocking-database-endpoints-in-munit-test)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -157,6 +160,10 @@
 - [Anypoint File Connector With Mulesoft](https://dzone.com/articles/anypoint-file-connector-with-mulesoft)
 - [CloudHub Connector With Mulesoft](https://dzone.com/articles/cloudhub-connector-with-mulesoft)
 - [Email Connector in Mule 4.0](https://dzone.com/articles/email-connector-in-mule-40)
+- [20 MuleSoft Connectors to Expand Your Ecosystem in 2019](https://dzone.com/articles/20-mulesoft-connectors-to-expand-your-ecosystem-in)
+
+### Legacy
+- [MuleSoft: Connect to a Flat File](https://dzone.com/articles/mulesoft-connect-to-a-flat-file)
 
 ### SAP Connector
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
@@ -174,6 +181,9 @@
 - [MuleSoft Salesforce Connector: OAuth 2.0 JWT Bearer](https://dzone.com/articles/mulesoft-salesforce-connector-oauth-20-jwt-bearer)
 - [How to Use Platform Events With MuleSoft's Salesforce Connector](https://dzone.com/articles/how-to-use-platform-events-with-mulesofts-salesfor)
 - [MuleSoft: Salesforce.com and Bulk API Query with Primary Key (PK) Chunking](https://dzone.com/articles/mulesoft-salesforcecom-and-bulk-api-query-and-prim)
+- [MuleSoft, Salesforce POST](https://dzone.com/articles/mulesoft-salesforce-crud-1)
+- [Mulesoft Salesforce Integration: Using Upsert and Query](https://dzone.com/articles/mulesoft-salesforce-integrationusing-upsert-and-qu)
+- [How to Use Platform Events With MuleSoft's Salesforce Connector](https://dzone.com/articles/how-to-use-platform-events-with-mulesofts-salesfor)
 
 ### Database Connectors
 - [MongoDB Connector for Hadoop 1.4](https://dzone.com/articles/mongodb-connector-for-hadoop-14)
@@ -183,6 +193,8 @@
 
 ### Amazon Connectors
 - [Introducing Anypoint Connector for Amazon EC2](https://dzone.com/articles/introducing-anypoint-connector-for-amazon-ec2)
+- [Using MuleSoft With Amazon MQ](https://dzone.com/articles/using-mulesoft-with-amazon-mq)
+- [Integration Concepts: Connect MuleSoft With Amazon S3](https://dzone.com/articles/connect-mulesoft-with-amazon-s3)
 
 ### ServiceNow Connector
 - [How to Work With the ServiceNow Connector in MuleSoft](https://dzone.com/articles/mulesoft-integration-with-servicenow)
@@ -193,6 +205,7 @@
 
 ### Microsoft Connectors
 - [CRUD Operations using Microsoft Dynamic 365 Connector in Mule](https://dzone.com/articles/crud-operations-using-microsoft-dynamic-365-connec)
+- [Mulesoft: How to Retrieve Millions of Records From Microsoft Dynamics CRM](https://dzone.com/articles/mulesoft-how-to-retrieve-millions-of-records-from)
 
 ### Social Media
 - [MuleSoft Integration With Twilio](https://dzone.com/articles/mulesoft-integration-with-twilio)
@@ -205,10 +218,17 @@
 - [Connecting Apache Kafka With Mule ESB](https://dzone.com/articles/connecting-apache-kafka-with-mule-esb)
 - [ActiveMQ Integration With Mulesoft](https://dzone.com/articles/activemq-with-mulesoft)
 
+### Internet of Things
+- [MuleSoft IoT: MuleSoft, Git, Docker, and Raspberry Pi](https://dzone.com/articles/mulesoft-iot-mulesoft-git-docker-raspberry-pi)
+
+### Service Bus
+- [Using the Microsoft Service Bus Connector With Mulesoft](https://dzone.com/articles/microsoft-service-bus-connector-with-mulesoft)
+
+
 
 ## Anypoint API Manager
 
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [Best Practices: Performance Tuning Real Life MuleSoft APIs](https://dzone.com/articles/design-best-practices-for-real-life-mulesoft-apis)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -216,11 +236,17 @@
 
 ## Anypoint Security
 
-- [SAML vs. OAuth](https://dzone.com/articles/saml-versus-oauth-which-one) - SAML vs. OAuth: Which One Should I Use?
-- [Implement OAuth2.0 in Mule](https://dzone.com/articles/steps-to-implement-oauth-20-in-mule-applications) - Steps to Implement OAuth2.0 in Mule Applications
-- [Mule Credential Vault](https://dzone.com/articles/mule-credential-vault) - Mule Credential Vault
+- [SAML vs. OAuth: Which One Should I Use?](https://dzone.com/articles/saml-versus-oauth-which-one)
+- [Mulesoft Basic Authentication With HTTPS](https://dzone.com/articles/mulesoft-basic-authentication-with-https)
+- [ Steps to Implement OAuth2.0 in Mule Applications](https://dzone.com/articles/steps-to-implement-oauth-20-in-mule-applications)
+- [Mule Credential Vault](https://dzone.com/articles/mule-credential-vault)
 - [MuleSoft Credentials Vault: Secure Your Data](https://dzone.com/articles/mulesoft-credentials-vault-secure-your-data)
 - [Enabling and Disabling TLS Settings in MuleSoft’s Anypoint Studio](https://dzone.com/articles/enablingdisabling-tls-settings-in-mulesofts-anypoi)
+- [Cheat Sheet: Addressing OWASP Top 10 Vulnerabilities in MuleSoft APIs](https://dzone.com/articles/cheatsheet-addressing-owasp-top-10-vulnerabilities)
+- [How to Encrypt Passwords in MuleSoft ESB Community Edition](https://dzone.com/articles/how-to-encrypt-passwords-and-other-private-informa)
+- [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
+
+
 
 
 ## Data Gateway
