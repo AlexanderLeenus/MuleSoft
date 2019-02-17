@@ -132,7 +132,7 @@
 
 ## Runtime Manager
 
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [Automating API Monitoring Using MuleSoft Flow DesignerAPI-Led Connectivity](https://dzone.com/articles/automating-api-monitoring-using-mulesoft-flow-desi)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
@@ -220,6 +220,7 @@
 
 ### Internet of Things
 - [MuleSoft IoT: MuleSoft, Git, Docker, and Raspberry Pi](https://dzone.com/articles/mulesoft-iot-mulesoft-git-docker-raspberry-pi)
+- [A Look at MuleSoft's MQTT Connector](https://dzone.com/articles/mqtt-connector-in-mulesoft-suits-iot-devices)
 
 ### Service Bus
 - [Using the Microsoft Service Bus Connector With Mulesoft](https://dzone.com/articles/microsoft-service-bus-connector-with-mulesoft)
@@ -245,8 +246,6 @@
 - [Cheat Sheet: Addressing OWASP Top 10 Vulnerabilities in MuleSoft APIs](https://dzone.com/articles/cheatsheet-addressing-owasp-top-10-vulnerabilities)
 - [How to Encrypt Passwords in MuleSoft ESB Community Edition](https://dzone.com/articles/how-to-encrypt-passwords-and-other-private-informa)
 - [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
-
-
 
 
 ## Data Gateway
