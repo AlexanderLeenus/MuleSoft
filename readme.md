@@ -62,19 +62,14 @@
 - [Using Drools in Mule ESB](https://dzone.com/articles/drools-in-mule-esb-1)
 - [Scatter-Gather in Mule ESB](https://dzone.com/articles/scatter-gather-mule-esb)
 - [How to Use Poll Reference, For Each, and Properties Files in Mule](https://dzone.com/articles/how-to-use-the-poll-reference-for-each-and-propert)
-- [Iterative Processing Using the For Each Scope in Mule](https://dzone.com/articles/iterative-processing-using-for-each-scope-mule)
 - [Implementing Message Enrichment in MuleSoft](https://dzone.com/articles/implementing-message-enrichment-in-mulesoft)
 - [MuleSoft: Using a Groovy Component](https://dzone.com/articles/mulesoft-using-groovy-component)
-- [MuleSoft Poll Scope and Watermark](https://dzone.com/articles/mulesoft-polling-scope-and-watermark)
 - [Cache Implementation in MuleSoft](https://dzone.com/articles/cache-implementation-in-mulesoft)
 - [Multicasting (Scatter-Gather) Messages With MuleSoft](https://dzone.com/articles/multicasting-scatter-gather-messages-with-mulesoft)
-- [MuleSoft Polling-As-A-Service](https://dzone.com/articles/mulesoft-polling-as-a-service)
 - [Concurrently Processing Split Payloads and Collecting Result in MuleSoft](https://dzone.com/articles/concurrently-processing-of-split-payload-and-colle)
 - [Splitter and Collection Aggregator With Mulesoft](https://dzone.com/articles/mulesoft-polling-as-a-service)
-- [MuleSoft Polling-As-A-Service](https://dzone.com/articles/splitter-and-collection-aggregator-with-mulesoft)
-- [What Is Content-Based Routing With Mulesoft?](https://dzone.com/articles/what-is-content-based-routing-with-mulesoft)
 - [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
-- [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
+
 
 ### General
 - [Mule ESB - Most Popular Enterprise Service Bus](https://dzone.com/articles/mule-esb-most-popular)
@@ -86,14 +81,16 @@
 - [MuleSoft's Scope of Session and Flow Variables](https://dzone.com/articles/scope-of-session-and-flow-variables)
 - [The Scope of Flow Variables and Session Variables in Async Flow in Mulesoft](https://dzone.com/articles/scope-of-flow-variables-and-session-variables-in-a)
 
-### Processing Strategy
+### Processing
 - [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
+- [Iterative Processing Using the For Each Scope in Mule](https://dzone.com/articles/iterative-processing-using-for-each-scope-mule)
 
 ### Filters
 - [Types of Anypoint Filters With Mulesoft](https://dzone.com/articles/different-types-of-anypoint-filters-in-mulesoft)
 
 ### Router
 - [First Successful Router in Mule](https://dzone.com/articles/first-successful-router-in-mule)
+- [What Is Content-Based Routing With Mulesoft?](https://dzone.com/articles/what-is-content-based-routing-with-mulesoft)
 
 ### Exception Strategies
 - [MuleSoft Exception Strategies](https://dzone.com/articles/mulesoft-exception-strategies)
@@ -106,7 +103,10 @@
 ### Validation
 - [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
 
-
+### Batch Processing & Polling
+- [Anypoint Batch Processing and Polling Scope With Mulesoft](https://dzone.com/articles/anypoint-batch-processing-with-mulesoft)
+- [MuleSoft Polling-As-A-Service](https://dzone.com/articles/mulesoft-polling-as-a-service)
+- [MuleSoft Poll Scope and Watermark](https://dzone.com/articles/mulesoft-polling-scope-and-watermark)
 
 ## Anypoint Platform
 
