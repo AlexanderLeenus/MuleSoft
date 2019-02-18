@@ -53,6 +53,8 @@
 - [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
 - [Comparing RESTful APIs and SOAP APIs Using MuleSoft as an Example](https://dzone.com/articles/comparing-restful-apis-and-soap-apis)
 - [Understanding Hybrid Integration Platforms](https://dzone.com/articles/understanding-hybrid-integration-platforms)
+- [Key Differences between ESB, EAI and SOA](https://www.innovativearchitects.com/KnowledgeCenter/business-connectivity/ESB-EAI-SOA.aspx)
+
 
 
 ## Core Mule ESB
@@ -117,8 +119,6 @@
 - [iPaaS: integration Platform as a Service from MuleSoft](https://www.theserverside.com/discussions/thread/62391.html)
 
 ### Design Center
-
-#### API Specification
 - [API-First Design Using MuleSoft’s Anypoint Platform](https://dzone.com/articles/api-first-design-approach-using-mulesofts-anypoint)
 - [Designing APIs/RAML With MuleSoft](https://dzone.com/articles/designing-raml-with-mulesoft)
 - [Changing Requirements to Design in RAML 1.0](https://dzone.com/articles/changing-requirements-to-design-in-raml-10)
@@ -132,25 +132,26 @@
 - [Understanding Resource Types and Traits With RAML](https://dzone.com/articles/understanding-resourcetypes-and-traits-with-raml)
 
 
-#### Mule Application
+### Mule Application
 - [Automating API Monitoring Using MuleSoft Flow Designer](https://dzone.com/articles/automating-api-monitoring-using-mulesoft-flow-desi)
 
 ### Anypoint Exchange
-
 - [How to Create a Template Project With Anypoint Studio and Mulesoft Exchange](https://dzone.com/articles/create-a-template-project-for-anypoint-studio-and)
 
+## Management Center
 
 ### Access Management
+
+### Anypoint API Manager
+- [Best Practices: Performance Tuning Real Life MuleSoft APIs](https://dzone.com/articles/design-best-practices-for-real-life-mulesoft-apis)
+- [How to Design a RAML-Based REST API With Mulesoft Anypoint API Manager](https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint)
+- [How to Create an Anypoint API Portal to Publish RAML-Based REST APIs](https://dzone.com/articles/how-to-publish-raml-based-rest-api-to-anypoint-api)
 
 ### Runtime Manager
 
 - [Automating API Monitoring Using MuleSoft Flow DesignerAPI-Led Connectivity](https://dzone.com/articles/automating-api-monitoring-using-mulesoft-flow-desi)
 
-### Anypoint API Manager
 
-- [Best Practices: Performance Tuning Real Life MuleSoft APIs](https://dzone.com/articles/design-best-practices-for-real-life-mulesoft-apis)
-- [How to Design a RAML-Based REST API With Mulesoft Anypoint API Manager](https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint)
-- [How to Create an Anypoint API Portal to Publish RAML-Based REST APIs](https://dzone.com/articles/how-to-publish-raml-based-rest-api-to-anypoint-api)
 
 
 ### Data Gateway
@@ -290,6 +291,11 @@
 
 
 ## Development Tools
+- [Mule Community Edition on GitHub](https://github.com/mulesoft/mule)
+- [Anypoint Studio 7 and Mule 4](https://www.mulesoft.com/platform/studio)
+- [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration)
+- [What's New in Mule 4](https://dzone.com/articles/whats-new-in-mule-4-1)
+
 
 
 ## Project Management
@@ -301,7 +307,7 @@
 - [Anypoint Platform Capabilities and an API-Led Connectivity Example](https://dzone.com/articles/anypoint-platform-capabilities-and-an-api-led-conn)
 - [Mulesoft Anypoint Examples](https://github.com/mulesoft/anypoint-examples)
 - [Mulesoft Official GitHub Page](https://github.com/mulesoft)
-- [Mule Community Edition on GitHub](https://github.com/mulesoft/mule)
+
 
 ## Trainings & Courses
 
