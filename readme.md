@@ -296,6 +296,8 @@
 - [How to Encrypt Passwords in MuleSoft ESB Community Edition](https://dzone.com/articles/how-to-encrypt-passwords-and-other-private-informa)
 - [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
 - [API security: Ways to authenticate and authorize](https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/)
+- [Implementing a Custom OAuth Policy in Mule](https://dzone.com/articles/implementing-the-custom-oauth-policy-in-mule)
+
 
 
 ## Development Tools
