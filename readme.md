@@ -38,11 +38,6 @@
 
 ## Core Mule ESB
 
-### General
-- [Mule ESB - Most Popular Enterprise Service Bus](https://dzone.com/articles/mule-esb-most-popular)
-- [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
-- [Mule in a Nutshell](https://dzone.com/refcardz/core-mule?chapter=1)
-
 - [Demonstrating Domain Projects in MuleSoft](https://dzone.com/articles/demonstrating-domain-projects-in-mulesoft-1)
 - [Implementing Object Store With Mule ESB](https://dzone.com/articles/object-store-with-mule-esb)
 - [Mule ESB in Docker](https://dzone.com/articles/mule-esb-docker)
@@ -62,6 +57,11 @@
 - [What Is Content-Based Routing With Mulesoft?](https://dzone.com/articles/what-is-content-based-routing-with-mulesoft)
 - [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
 - [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
+
+### General
+- [Mule ESB - Most Popular Enterprise Service Bus](https://dzone.com/articles/mule-esb-most-popular)
+- [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
+- [Mule in a Nutshell](https://dzone.com/refcardz/core-mule?chapter=1)
 
 ### Variables
 - [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
