@@ -1,6 +1,5 @@
 
 ## Contents
-
 - [Design Patterns](#design-patterns)
 - [Core Mule ESB](#core-mule-esb)
 - [API Best Practices](#api-best-practices)
@@ -28,8 +27,8 @@
 - [Miscellaneous](#miscellaneous)
 
 
-## Integration Design Patterns
 
+## Integration Design Patterns
 - [Why Enterprise Integration Patterns?](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
 - [Understanding Enterprise Integration Patterns](https://dzone.com/articles/enterprise-integration)
 - [Reliability Pattern in Mule](https://dzone.com/articles/reliability-patter-in-mule)
@@ -37,9 +36,10 @@
 - [Understanding the Importance of EAI](https://dzone.com/articles/understanding-the-importance-of-eai)
 
 
-## API Best Practices
 
+## API Best Practices
 - [Principles for API Development](https://www.mulesoft.com/resources/api/development-best-practices)
+
 
 
 ## Design Approach
@@ -53,8 +53,8 @@
 - [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
 
 
-## Core Mule ESB
 
+## Core Mule ESB
 - [Demonstrating Domain Projects in MuleSoft](https://dzone.com/articles/demonstrating-domain-projects-in-mulesoft-1)
 - [Implementing Object Store With Mule ESB](https://dzone.com/articles/object-store-with-mule-esb)
 - [Mule ESB in Docker](https://dzone.com/articles/mule-esb-docker)
@@ -103,6 +103,7 @@
 
 ### Validation
 - [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
+
 
 
 ## Anypoint Platform
@@ -154,6 +155,7 @@
 
 
 
+
 ## Anypoint Studio
 - [A Beginner's Guide to Mule](https://dzone.com/articles/mule-application-building-blocks)
 - [Creating a Mule ESB Sample Application](https://dzone.com/articles/mule-sample-application)
@@ -168,6 +170,7 @@
 ### API Testing
 
 - [Mocking Database Endpoints in MUnit Tests](https://dzone.com/articles/mulesoft-mocking-database-endpoints-in-munit-test)
+
 
 
 ## Anypoint Connectors
@@ -264,7 +267,9 @@
 - [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
 
 
+
 ## Anypoint Templates
+
 
 
 ## Development Tools
