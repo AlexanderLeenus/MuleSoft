@@ -289,7 +289,7 @@
 - [Cheat Sheet: Addressing OWASP Top 10 Vulnerabilities in MuleSoft APIs](https://dzone.com/articles/cheatsheet-addressing-owasp-top-10-vulnerabilities)
 - [How to Encrypt Passwords in MuleSoft ESB Community Edition](https://dzone.com/articles/how-to-encrypt-passwords-and-other-private-informa)
 - [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
-- [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
+- [API security: Ways to authenticate and authorize](https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/)
 
 
 ## Development Tools
