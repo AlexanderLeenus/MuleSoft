@@ -94,18 +94,23 @@
 - [iPaaS: integration Platform as a Service from MuleSoft](https://www.theserverside.com/discussions/thread/62391.html)
 
 ### Design Center
+
+#### API Specification
 - [API-First Design Using MuleSoft’s Anypoint Platform](https://dzone.com/articles/api-first-design-approach-using-mulesofts-anypoint)
 - [Designing APIs/RAML With MuleSoft](https://dzone.com/articles/designing-raml-with-mulesoft)
 - [Changing Requirements to Design in RAML 1.0](https://dzone.com/articles/changing-requirements-to-design-in-raml-10)
 - [Validation Against RAML Using MuleSoft APIkit Router](https://dzone.com/articles/validation-against-raml-using-mulesoft-apikit-rout)
 - [Creating an API Specification in a Design Center](https://dzone.com/articles/creating-an-api-specification-in-design-center)
-- [How to Design a RAML-Based REST API With Mulesoft Anypoint API Manager](https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint)
 - [MuleSoft With OpenAPI Specification](https://dzone.com/articles/mulesoft-with-open-api-specification-oas)
 - [Designing APIs With RAML](https://dzone.com/articles/designing-api-with-raml)
 - [Swagger, RAML, and Open API](https://dzone.com/articles/rest-api-documentation-part-2-1)
 - [Converting Swagger to RAML](https://dzone.com/articles/converting-swagger-to-raml)
 - [RAML or OpenAPI - How About Both?](https://dzone.com/articles/raml-or-openapi-how-about-both)
 - [Understanding Resource Types and Traits With RAML](https://dzone.com/articles/understanding-resourcetypes-and-traits-with-raml)
+
+
+#### Mule Application
+- [Automating API Monitoring Using MuleSoft Flow Designer](https://dzone.com/articles/automating-api-monitoring-using-mulesoft-flow-desi)
 
 ### Anypoint Exchange
 
@@ -120,6 +125,7 @@
 ### Anypoint API Manager
 
 - [Best Practices: Performance Tuning Real Life MuleSoft APIs](https://dzone.com/articles/design-best-practices-for-real-life-mulesoft-apis)
+- [How to Design a RAML-Based REST API With Mulesoft Anypoint API Manager](https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint)
 
 ### Data Gateway
 
