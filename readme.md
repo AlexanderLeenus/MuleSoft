@@ -147,6 +147,8 @@
 
 - [Best Practices: Performance Tuning Real Life MuleSoft APIs](https://dzone.com/articles/design-best-practices-for-real-life-mulesoft-apis)
 - [How to Design a RAML-Based REST API With Mulesoft Anypoint API Manager](https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint)
+- [How to Create an Anypoint API Portal to Publish RAML-Based REST APIs](https://dzone.com/articles/how-to-publish-raml-based-rest-api-to-anypoint-api)
+
 
 ### Data Gateway
 
