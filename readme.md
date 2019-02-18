@@ -310,7 +310,7 @@
 - [Mulesoft Mule ESB Certification - Associate Practice Test](https://www.udemy.com/mulesoft-certificate-practice-test/)
 
 ### YouTube Videos
-- [APIs 101: What Exactly is an API? ](https://www.youtube.com/watch?v=cpRcK4GS068&list=PLcgRuP1JhcBP8Kh0MC53GH_pxqfOhTVLa)
+- [ProgrammableWeb's APIs 101 Training Series](https://www.youtube.com/watch?v=cpRcK4GS068&list=PLcgRuP1JhcBP8Kh0MC53GH_pxqfOhTVLa)
 
 
 ## MuleSoft Certifications
