@@ -305,7 +305,7 @@
 - [MCD - Level 1 / Development Fundamentals (Mule 4) Quiz & DIY Exercises](https://training.mulesoft.com)
 
 ### Udemy Courses
-- [Mulesoft - Mule ESB from Beginner to Expert](Mulesoft - Mule ESB from Beginner to Expert)
+- [Mulesoft - Mule ESB from Beginner to Expert](https://www.udemy.com/mule-esb-tutorial/)
 - [Mule ESB in Depth](https://www.udemy.com/mule-esb/)
 - [Mulesoft Mule ESB Certification - Associate Practice Test](https://www.udemy.com/mulesoft-certificate-practice-test/)
 
