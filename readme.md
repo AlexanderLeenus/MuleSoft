@@ -52,7 +52,7 @@
 - [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
 - [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
 - [Comparing RESTful APIs and SOAP APIs Using MuleSoft as an Example](https://dzone.com/articles/comparing-restful-apis-and-soap-apis)
-
+- [Understanding Hybrid Integration Platforms](https://dzone.com/articles/understanding-hybrid-integration-platforms)
 
 
 ## Core Mule ESB
@@ -221,6 +221,7 @@
 - [MuleSoft, Salesforce POST](https://dzone.com/articles/mulesoft-salesforce-crud-1)
 - [Mulesoft Salesforce Integration: Using Upsert and Query](https://dzone.com/articles/mulesoft-salesforce-integrationusing-upsert-and-qu)
 - [How to Use Platform Events With MuleSoft's Salesforce Connector](https://dzone.com/articles/how-to-use-platform-events-with-mulesofts-salesfor)
+- [How to Call SalesforceBulkAPI Using the Batch Commit in Mule](https://dzone.com/articles/salesforcebulkapi-call-using-batch-commit-in-mule)
 
 ### Database Connectors
 - [MongoDB Connector for Hadoop 1.4](https://dzone.com/articles/mongodb-connector-for-hadoop-14)
@@ -248,6 +249,7 @@
 ### Social Media
 - [MuleSoft Integration With Twilio](https://dzone.com/articles/mulesoft-integration-with-twilio)
 - [Slack Connector in MULE ESB](https://dzone.com/articles/slack-connector-in-mule-esb)
+- [Connecting Google Spreadsheet APIs With Mule ESB](https://dzone.com/articles/connecting-google-api-with-mule-esb)
 
 ### JMS Connector
 - [Anypoint JMS Connector With Mulesoft](https://dzone.com/articles/anypoint-jms-connector-with-mulesoft)
