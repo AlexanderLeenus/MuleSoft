@@ -107,7 +107,7 @@
 - [RAML or OpenAPI - How About Both?](https://dzone.com/articles/raml-or-openapi-how-about-both)
 - [Understanding Resource Types and Traits With RAML](https://dzone.com/articles/understanding-resourcetypes-and-traits-with-raml)
 
-## Anypoint Exchange
+### Anypoint Exchange
 
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
@@ -128,6 +128,8 @@
 
 
 ### Secrets Manager
+
+
 
 ## Anypoint Studio
 - [A Beginner's Guide to Mule](https://dzone.com/articles/mule-application-building-blocks)
