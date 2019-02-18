@@ -42,10 +42,12 @@
 
 
 
+
 ## Design Approach
 - [Understanding API Design](https://dzone.com/articles/understanding-api-design)
 - [Architecture Evolution With Mulesoft](https://dzone.com/articles/architectures-evolution-with-mulesoft)
 - [Service Oriented Architecture ](https://github.com/AlexanderLeenus/SOA)
+- [5 reasons why ESB-led integration is out and API-led integration is in](https://blogs.mulesoft.com/biz/api/5-reasons-why-esb-led-integration-is-out-and-api-led-integration-is-in/)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [MuleSoft API Lifecycle Management](https://dzone.com/articles/mulesoft-api-management-life-cycle)
 - [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
@@ -288,6 +290,7 @@
 - [Cheat Sheet: Addressing OWASP Top 10 Vulnerabilities in MuleSoft APIs](https://dzone.com/articles/cheatsheet-addressing-owasp-top-10-vulnerabilities)
 - [How to Encrypt Passwords in MuleSoft ESB Community Edition](https://dzone.com/articles/how-to-encrypt-passwords-and-other-private-informa)
 - [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
+- [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
 
 
 ## Development Tools
@@ -295,12 +298,10 @@
 - [Anypoint Studio 7 and Mule 4](https://www.mulesoft.com/platform/studio)
 - [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration)
 - [What's New in Mule 4](https://dzone.com/articles/whats-new-in-mule-4-1)
-
-
+- [Mulesoft's Mule 4 Vs Mule 3 Release, Why Upgrade?](https://blog.vsoftconsulting.com/blog/mule-4-vs-mule-3-release-which-is-more-beneficial)
 
 ## Project Management
 - [MuleSoft: Encouraging Teamwork to Enhance Productivity](https://dzone.com/articles/mulesoft-encouraging-teamwork-to-enhance-productiv)
-
 
 ## Use Cases & Examples
 - [Creating a System API Using MuleSoft](https://dzone.com/articles/creating-system-api-using-mulesoft)
