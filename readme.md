@@ -135,7 +135,8 @@
 
 ### Anypoint Exchange
 
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [How to Create a Template Project With Anypoint Studio and Mulesoft Exchange](https://dzone.com/articles/create-a-template-project-for-anypoint-studio-and)
+
 
 ### Access Management
 
@@ -212,6 +213,7 @@
 - [SAP to Salesforce Integration Using MuleSoft](https://www.youtube.com/watch?v=ugB0h9MWLYM)
 - [Best practices for SAP application integration projects](https://dzone.com/articles/salesforce-integration-using-mulesoft-salesforce-c)
 - [Interface In between SAP and MULESOFT](https://blogs.sap.com/2017/05/16/interface-in-between-sap-and-mulesoft/)
+- [How to Strengthen eCommerce With SAP Hybris and Anypoint Platform](https://dzone.com/articles/how-to-strengthen-ecommerce-with-sap-hybris-and-an)
 
 ### Salesforce Connector
 - [How to Integrate SalesForce With Mule](https://dzone.com/articles/salesforce-connector-with-anypoint-mulesoft-1)
@@ -232,6 +234,8 @@
 - [Mule Database Connector With HSQLDB](https://dzone.com/articles/mule-database-connector-with-hsqldb)
 - [Introducing Hadoop (HDFS) Connector v5.0.0](https://dzone.com/articles/introducing-hadoop-hdfs-connector-v500)
 - [Using In-Memory Database in MuleSoft With Apache Derby](https://dzone.com/articles/use-of-in-memory-database-in-mulesoft-using-apache)
+- [Introducing Anypoint Connector for Cassandra](https://dzone.com/articles/introducing-anypoint-connector-for-cassandra)
+
 
 ### Amazon Connectors
 - [Introducing Anypoint Connector for Amazon EC2](https://dzone.com/articles/introducing-anypoint-connector-for-amazon-ec2)
@@ -280,11 +284,6 @@
 - [Cheat Sheet: Addressing OWASP Top 10 Vulnerabilities in MuleSoft APIs](https://dzone.com/articles/cheatsheet-addressing-owasp-top-10-vulnerabilities)
 - [How to Encrypt Passwords in MuleSoft ESB Community Edition](https://dzone.com/articles/how-to-encrypt-passwords-and-other-private-informa)
 - [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
-
-
-
-## Anypoint Templates
-
 
 
 ## Development Tools
