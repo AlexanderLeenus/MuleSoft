@@ -277,6 +277,9 @@
 #### Service Bus
 - [Using the Microsoft Service Bus Connector With Mulesoft](https://dzone.com/articles/microsoft-service-bus-connector-with-mulesoft)
 
+#### Others
+- [PayPal Integration Within MULE ESB](https://dzone.com/articles/paypal-integration-with-in-mule-esb)
+
 
 ## Anypoint Security
 
