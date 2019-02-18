@@ -138,29 +138,29 @@
 ### Anypoint Exchange
 - [How to Create a Template Project With Anypoint Studio and Mulesoft Exchange](https://dzone.com/articles/create-a-template-project-for-anypoint-studio-and)
 
-## Management Center
+### Management Center
 
-### Access Management
+#### Access Management
 
-### Anypoint API Manager
+#### Anypoint API Manager
 - [Best Practices: Performance Tuning Real Life MuleSoft APIs](https://dzone.com/articles/design-best-practices-for-real-life-mulesoft-apis)
 - [How to Design a RAML-Based REST API With Mulesoft Anypoint API Manager](https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint)
 - [How to Create an Anypoint API Portal to Publish RAML-Based REST APIs](https://dzone.com/articles/how-to-publish-raml-based-rest-api-to-anypoint-api)
 
-### Runtime Manager
+#### Runtime Manager
 
 - [Automating API Monitoring Using MuleSoft Flow DesignerAPI-Led Connectivity](https://dzone.com/articles/automating-api-monitoring-using-mulesoft-flow-desi)
 
 
 
 
-### Data Gateway
+#### Data Gateway
 
 
-### Visualizer
+#### Visualizer
 
 
-### Secrets Manager
+#### Secrets Manager
 
 
 
@@ -191,13 +191,13 @@
 
 ## Anypoint Connectors
 
-### Custom Connectors
+#### Custom Connectors
 - [How to Build a Custom Connector in MuleSoft](https://dzone.com/articles/how-to-build-a-custom-connector-in-mulesoft)
 - [How to Build a Custom Mule Connector in Java](https://dzone.com/articles/building-a-custom-mule-connector)
 - [How to Create Mule Connectors](https://dzone.com/articles/creating-mule-connectors)
 - [MuleSoft Creating Custom Component/Connector](https://dzone.com/articles/mulesoft-creating-custom-componentconnector)
 
-### General Connectors
+#### General Connectors
 - [Configure an HTTP Connector as a Listener](https://dzone.com/articles/mulesoft-http-connector)
 - [FTP Connector With Mule ESB](https://dzone.com/articles/ftp-connector-with-mule-esb)
 - [Anypoint File Connector With Mulesoft](https://dzone.com/articles/anypoint-file-connector-with-mulesoft)
@@ -206,10 +206,10 @@
 - [20 MuleSoft Connectors to Expand Your Ecosystem in 2019](https://dzone.com/articles/20-mulesoft-connectors-to-expand-your-ecosystem-in)
 - [More SaaS Integration from MuleSoft](https://dzone.com/articles/more-saas-integration-mulesoft)
 
-### Legacy
+#### Legacy
 - [MuleSoft: Connect to a Flat File](https://dzone.com/articles/mulesoft-connect-to-a-flat-file)
 
-### SAP Connector
+#### SAP Connector
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 - [How to Strengthen eCommerce With SAP Hybris and Anypoint Platform](https://dzone.com/articles/how-to-strengthen-ecommerce-with-sap-hybris-and-an)
 - [SAP Integration in Mule ESB](https://dzone.com/articles/sap-integration-within-mule-esb)
@@ -218,7 +218,7 @@
 - [Interface In between SAP and MULESOFT](https://blogs.sap.com/2017/05/16/interface-in-between-sap-and-mulesoft/)
 - [How to Strengthen eCommerce With SAP Hybris and Anypoint Platform](https://dzone.com/articles/how-to-strengthen-ecommerce-with-sap-hybris-and-an)
 
-### Salesforce Connector
+#### Salesforce Connector
 - [How to Integrate SalesForce With Mule](https://dzone.com/articles/salesforce-connector-with-anypoint-mulesoft-1)
 - [MuleSoft, Salesforce UPSERT](https://dzone.com/articles/mulesoft-salesforce-crud-2)
 - [MuleSoft, Salesforce Request](https://dzone.com/articles/mulesoft-salesforce-crud)
@@ -231,7 +231,7 @@
 - [How to Use Platform Events With MuleSoft's Salesforce Connector](https://dzone.com/articles/how-to-use-platform-events-with-mulesofts-salesfor)
 - [How to Call SalesforceBulkAPI Using the Batch Commit in Mule](https://dzone.com/articles/salesforcebulkapi-call-using-batch-commit-in-mule)
 
-### Database Connectors
+#### Database Connectors
 - [MongoDB Connector for Hadoop 1.4](https://dzone.com/articles/mongodb-connector-for-hadoop-14)
 - [Mule 4: Database Connector Bulk Insert](https://dzone.com/articles/mule-4-database-connector-bulk-insert)
 - [Mule Database Connector With HSQLDB](https://dzone.com/articles/mule-database-connector-with-hsqldb)
@@ -241,39 +241,39 @@
 - [Introducing Anypoint Connector for Neo4J](https://dzone.com/articles/introducing-anypoint-connector-for-neo4j)
 
 
-### Amazon Connectors
+#### Amazon Connectors
 - [Introducing Anypoint Connector for Amazon EC2](https://dzone.com/articles/introducing-anypoint-connector-for-amazon-ec2)
 - [Using MuleSoft With Amazon MQ](https://dzone.com/articles/using-mulesoft-with-amazon-mq)
 - [Integration Concepts: Connect MuleSoft With Amazon S3](https://dzone.com/articles/connect-mulesoft-with-amazon-s3)
 
-### ServiceNow Connector
+#### ServiceNow Connector
 - [How to Work With the ServiceNow Connector in MuleSoft](https://dzone.com/articles/mulesoft-integration-with-servicenow)
 
-### Elasticserach Connector
+#### Elasticserach Connector
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 - [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
 
-### Microsoft Connectors
+#### Microsoft Connectors
 - [CRUD Operations using Microsoft Dynamic 365 Connector in Mule](https://dzone.com/articles/crud-operations-using-microsoft-dynamic-365-connec)
 - [Mulesoft: How to Retrieve Millions of Records From Microsoft Dynamics CRM](https://dzone.com/articles/mulesoft-how-to-retrieve-millions-of-records-from)
 
-### Social Media
+#### Social Media
 - [MuleSoft Integration With Twilio](https://dzone.com/articles/mulesoft-integration-with-twilio)
 - [Slack Connector in MULE ESB](https://dzone.com/articles/slack-connector-in-mule-esb)
 - [Connecting Google Spreadsheet APIs With Mule ESB](https://dzone.com/articles/connecting-google-api-with-mule-esb)
 
-### JMS Connector
+#### JMS Connector
 - [Anypoint JMS Connector With Mulesoft](https://dzone.com/articles/anypoint-jms-connector-with-mulesoft)
 - [Using Mule With Kafka Connector](https://dzone.com/articles/using-mule-with-kafka-connector-from-nettaptech)
 - [Anypoint JMS Connector With Mulesoft](https://dzone.com/articles/anypoint-jms-connector-with-mulesoft)
 - [Connecting Apache Kafka With Mule ESB](https://dzone.com/articles/connecting-apache-kafka-with-mule-esb)
 - [ActiveMQ Integration With Mulesoft](https://dzone.com/articles/activemq-with-mulesoft)
 
-### Internet of Things
+#### Internet of Things
 - [MuleSoft IoT: MuleSoft, Git, Docker, and Raspberry Pi](https://dzone.com/articles/mulesoft-iot-mulesoft-git-docker-raspberry-pi)
 - [A Look at MuleSoft's MQTT Connector](https://dzone.com/articles/mqtt-connector-in-mulesoft-suits-iot-devices)
 
-### Service Bus
+#### Service Bus
 - [Using the Microsoft Service Bus Connector With Mulesoft](https://dzone.com/articles/microsoft-service-bus-connector-with-mulesoft)
 
 
