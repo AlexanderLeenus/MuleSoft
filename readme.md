@@ -80,6 +80,7 @@
 - [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
 - [MuleSoft's Scope of Session and Flow Variables](https://dzone.com/articles/scope-of-session-and-flow-variables)
 - [The Scope of Flow Variables and Session Variables in Async Flow in Mulesoft](https://dzone.com/articles/scope-of-flow-variables-and-session-variables-in-a)
+- [Mule Batch Jobs and Variables](https://dzone.com/articles/mule-batch-jobs-and-its-variables)
 
 ### Processing
 - [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
