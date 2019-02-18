@@ -312,18 +312,18 @@
 
 ## Trainings & Courses
 
-### MuleSoft Courses
+#### MuleSoft Courses
 - [MuleSoft.U Flow Design](https://training.mulesoft.com)
 - [MuleSoft.U Development Fundamentals (Mule 4)](https://training.mulesoft.com)
 - [MuleSoft.U Getting Started with Anypoint Platform (Mule 4)](https://training.mulesoft.com)
 - [MCD - Level 1 / Development Fundamentals (Mule 4) Quiz & DIY Exercises](https://training.mulesoft.com)
 
-### Udemy Courses
+#### Udemy Courses
 - [Mulesoft - Mule ESB from Beginner to Expert](https://www.udemy.com/mule-esb-tutorial/)
 - [Mule ESB in Depth](https://www.udemy.com/mule-esb/)
 - [Mulesoft Mule ESB Certification - Associate Practice Test](https://www.udemy.com/mulesoft-certificate-practice-test/)
 
-### YouTube Videos
+#### YouTube Videos
 - [ProgrammableWeb's APIs 101 Training Series](https://www.youtube.com/watch?v=cpRcK4GS068&list=PLcgRuP1JhcBP8Kh0MC53GH_pxqfOhTVLa)
 
 
