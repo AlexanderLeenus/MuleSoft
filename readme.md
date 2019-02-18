@@ -300,7 +300,8 @@
 - [Creating a System API Using MuleSoft](https://dzone.com/articles/creating-system-api-using-mulesoft)
 - [Anypoint Platform Capabilities and an API-Led Connectivity Example](https://dzone.com/articles/anypoint-platform-capabilities-and-an-api-led-conn)
 - [Mulesoft Anypoint Examples](https://github.com/mulesoft/anypoint-examples)
-- [Mulesoft Official Github Page](https://github.com/mulesoft)
+- [Mulesoft Official GitHub Page](https://github.com/mulesoft)
+- [Mule Community Edition on GitHub](https://github.com/mulesoft/mule)
 
 ## Trainings & Courses
 
