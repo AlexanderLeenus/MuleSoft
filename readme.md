@@ -75,6 +75,8 @@
 - [Mule ESB - Most Popular Enterprise Service Bus](https://dzone.com/articles/mule-esb-most-popular)
 - [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
 - [Mule in a Nutshell](https://dzone.com/refcardz/core-mule?chapter=1)
+- [Commanding Unix with Mule](https://dzone.com/articles/commanding-unix-with-mule)
+
 
 ### Variables
 - [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
@@ -169,7 +171,7 @@
 - [Transaction Management in MuleSoft/Anypoint Studio](https://dzone.com/articles/transaction-management-in-mulesoft)
 - [How to Consume RESTful Web Services With Mulesoft Anypoint Studio](https://dzone.com/articles/how-to-consume-restful-web-service-with-mulesoft-a)
 - [Consume Multiple Operations of SOAP-Based Web Service With Mulesoft Anypoint Studio](https://dzone.com/articles/consume-multiple-operations-of-soap-based-web-serv)
-- [Test](https://test.com)
+- [Managing Mule Schedules With Anypoint Runtime Manager](https://dzone.com/articles/managing-mule-schedules-with-anypoint-runtime-mana)
 - [Test](https://test.com)
 
 
@@ -235,6 +237,7 @@
 - [Introducing Hadoop (HDFS) Connector v5.0.0](https://dzone.com/articles/introducing-hadoop-hdfs-connector-v500)
 - [Using In-Memory Database in MuleSoft With Apache Derby](https://dzone.com/articles/use-of-in-memory-database-in-mulesoft-using-apache)
 - [Introducing Anypoint Connector for Cassandra](https://dzone.com/articles/introducing-anypoint-connector-for-cassandra)
+- [Introducing Anypoint Connector for Neo4J](https://dzone.com/articles/introducing-anypoint-connector-for-neo4j)
 
 
 ### Amazon Connectors
@@ -293,10 +296,11 @@
 - [MuleSoft: Encouraging Teamwork to Enhance Productivity](https://dzone.com/articles/mulesoft-encouraging-teamwork-to-enhance-productiv)
 
 
-## Use Cases
+## Use Cases & Examples
 - [Creating a System API Using MuleSoft](https://dzone.com/articles/creating-system-api-using-mulesoft)
 - [Anypoint Platform Capabilities and an API-Led Connectivity Example](https://dzone.com/articles/anypoint-platform-capabilities-and-an-api-led-conn)
-
+- [Mulesoft Anypoint Examples](https://github.com/mulesoft/anypoint-examples)
+- [Mulesoft Official Github Page](https://github.com/mulesoft)
 
 ## Trainings & Courses
 
