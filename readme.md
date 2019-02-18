@@ -37,16 +37,14 @@
 - [Understanding the Importance of EAI](https://dzone.com/articles/understanding-the-importance-of-eai)
 
 ## Core Mule ESB
+
+### General
 - [Mule ESB - Most Popular Enterprise Service Bus](https://dzone.com/articles/mule-esb-most-popular)
 - [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
-- [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
 - [Mule in a Nutshell](https://dzone.com/refcardz/core-mule?chapter=1)
-- [Mule Message Data and Expression Language](https://dzone.com/articles/mule-message-data-and-expression-language)
+
 - [Demonstrating Domain Projects in MuleSoft](https://dzone.com/articles/demonstrating-domain-projects-in-mulesoft-1)
 - [Implementing Object Store With Mule ESB](https://dzone.com/articles/object-store-with-mule-esb)
-- [First Successful Router in Mule](https://dzone.com/articles/first-successful-router-in-mule)
-- [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
-- [Types of Anypoint Filters With Mulesoft](https://dzone.com/articles/different-types-of-anypoint-filters-in-mulesoft)
 - [Mule ESB in Docker](https://dzone.com/articles/mule-esb-docker)
 - [Using Drools in Mule ESB](https://dzone.com/articles/drools-in-mule-esb-1)
 - [Scatter-Gather in Mule ESB](https://dzone.com/articles/scatter-gather-mule-esb)
@@ -54,28 +52,45 @@
 - [Iterative Processing Using the For Each Scope in Mule](https://dzone.com/articles/iterative-processing-using-for-each-scope-mule)
 - [Implementing Message Enrichment in MuleSoft](https://dzone.com/articles/implementing-message-enrichment-in-mulesoft)
 - [MuleSoft: Using a Groovy Component](https://dzone.com/articles/mulesoft-using-groovy-component)
-- [MuleSoft Exception Strategies](https://dzone.com/articles/mulesoft-exception-strategies)
-- [MuleSoft's Scope of Session and Flow Variables](https://dzone.com/articles/scope-of-session-and-flow-variables)
 - [MuleSoft Poll Scope and Watermark](https://dzone.com/articles/mulesoft-polling-scope-and-watermark)
 - [Cache Implementation in MuleSoft](https://dzone.com/articles/cache-implementation-in-mulesoft)
 - [Multicasting (Scatter-Gather) Messages With MuleSoft](https://dzone.com/articles/multicasting-scatter-gather-messages-with-mulesoft)
-- [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
 - [MuleSoft Polling-As-A-Service](https://dzone.com/articles/mulesoft-polling-as-a-service)
 - [Concurrently Processing Split Payloads and Collecting Result in MuleSoft](https://dzone.com/articles/concurrently-processing-of-split-payload-and-colle)
 - [Splitter and Collection Aggregator With Mulesoft](https://dzone.com/articles/mulesoft-polling-as-a-service)
 - [MuleSoft Polling-As-A-Service](https://dzone.com/articles/splitter-and-collection-aggregator-with-mulesoft)
-- [Types of Exception Strategies in MuleSoft Anypoint Studio](https://dzone.com/articles/what-are-different-types-of-exception-strategy-in)
+- [What Is Content-Based Routing With Mulesoft?](https://dzone.com/articles/what-is-content-based-routing-with-mulesoft)
+- [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
+- [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
+
+### Variables
+- [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
+- [MuleSoft's Scope of Session and Flow Variables](https://dzone.com/articles/scope-of-session-and-flow-variables)
+
+### Processing Strategy
+- [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
+
+### Filters
 - [Types of Anypoint Filters With Mulesoft](https://dzone.com/articles/different-types-of-anypoint-filters-in-mulesoft)
 
+### Router
+- [First Successful Router in Mule](https://dzone.com/articles/first-successful-router-in-mule)
+
+### Exception Strategies
+- [MuleSoft Exception Strategies](https://dzone.com/articles/mulesoft-exception-strategies)
+- [Types of Exception Strategies in MuleSoft Anypoint Studio](https://dzone.com/articles/what-are-different-types-of-exception-strategy-in)
+
+### Message Transformation
+- [Transforming Multipart/Form-Data Into XML Using MuleSoft and JavaScript](https://dzone.com/articles/transforming-multipartform-data-into-xml-using-mul)
+- [Mule Message Data and Expression Language](https://dzone.com/articles/mule-message-data-and-expression-language)
+
+### Validation
+- [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
 
 
 ## API Best Practices
 
 - [Principles for API Development](https://www.mulesoft.com/resources/api/development-best-practices)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 
 ## Design Approach
 - [Understanding API Design](https://dzone.com/articles/understanding-api-design)
@@ -168,6 +183,7 @@
 - [CloudHub Connector With Mulesoft](https://dzone.com/articles/cloudhub-connector-with-mulesoft)
 - [Email Connector in Mule 4.0](https://dzone.com/articles/email-connector-in-mule-40)
 - [20 MuleSoft Connectors to Expand Your Ecosystem in 2019](https://dzone.com/articles/20-mulesoft-connectors-to-expand-your-ecosystem-in)
+- [More SaaS Integration from MuleSoft](https://dzone.com/articles/more-saas-integration-mulesoft)
 
 ### Legacy
 - [MuleSoft: Connect to a Flat File](https://dzone.com/articles/mulesoft-connect-to-a-flat-file)
