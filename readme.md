@@ -297,9 +297,24 @@
 
 
 ## Trainings & Courses
+- [MuleSoft.U Flow Design](https://training.mulesoft.com)
+- [MuleSoft.U Development Fundamentals (Mule 4)](https://training.mulesoft.com)
+- [MuleSoft.U Getting Started with Anypoint Platform (Mule 4)](https://training.mulesoft.com)
+- [MCD - Level 1 / Development Fundamentals (Mule 4) Quiz & DIY Exercises](https://training.mulesoft.com)
 
 
 ## MuleSoft Certifications
+
+### Developer Exams
+- [MuleSoft Certified Developer - Level 1 (Mule 4)](https://training.mulesoft.com/exam/mcd-level1)
+- [MuleSoft Certified Developer - Level 1 (Mule 4) DELTA](https://training.mulesoft.com/exam/mcd-level1-delta)
+- [MuleSoft Certified Developer - Integration and API Associate (Mule 3)](https://training.mulesoft.com/exam/mcd-assoc)
+- [MuleSoft Certified Developer - API Design Associate (RAML 1.0)](https://training.mulesoft.com/exam/mcd-raml)
+- [MuleSoft Certified Developer - Integration Professional (Mule 3)](https://training.mulesoft.com/exam/mcd-pro)
+
+### Architect exams
+- [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/exam/mcpa-level1)
+- [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/exam/mcia-level1)
 
 
 ## Miscellaneous
