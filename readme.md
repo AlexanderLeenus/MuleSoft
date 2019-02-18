@@ -36,6 +36,23 @@
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [Understanding the Importance of EAI](https://dzone.com/articles/understanding-the-importance-of-eai)
 
+
+## API Best Practices
+
+- [Principles for API Development](https://www.mulesoft.com/resources/api/development-best-practices)
+
+
+## Design Approach
+- [Understanding API Design](https://dzone.com/articles/understanding-api-design)
+- [Architecture Evolution With Mulesoft](https://dzone.com/articles/architectures-evolution-with-mulesoft)
+- [Service Oriented Architecture ](https://github.com/AlexanderLeenus/SOA)
+- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+- [MuleSoft API Lifecycle Management](https://dzone.com/articles/mulesoft-api-management-life-cycle)
+- [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
+- [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
+- [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
+
+
 ## Core Mule ESB
 
 - [Demonstrating Domain Projects in MuleSoft](https://dzone.com/articles/demonstrating-domain-projects-in-mulesoft-1)
@@ -86,21 +103,6 @@
 
 ### Validation
 - [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
-
-
-## API Best Practices
-
-- [Principles for API Development](https://www.mulesoft.com/resources/api/development-best-practices)
-
-## Design Approach
-- [Understanding API Design](https://dzone.com/articles/understanding-api-design)
-- [Architecture Evolution With Mulesoft](https://dzone.com/articles/architectures-evolution-with-mulesoft)
-- [Service Oriented Architecture ](https://github.com/AlexanderLeenus/SOA)
-- [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
-- [MuleSoft API Lifecycle Management](https://dzone.com/articles/mulesoft-api-management-life-cycle)
-- [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
-- [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
-- [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
 
 
 ## Anypoint Platform
@@ -157,13 +159,13 @@
 - [Creating a Mule ESB Sample Application](https://dzone.com/articles/mule-sample-application)
 - [Transaction Management in MuleSoft/Anypoint Studio](https://dzone.com/articles/transaction-management-in-mulesoft)
 
-## DataWeave Language 
+### DataWeave Language 
 
 - [CSV | XML | JSON in MuleSoft](https://dzone.com/articles/csv-xml-json-in-mulesoft)
 - [MuleSoft Dataweave Language: Reading Properties From Files Dynamically](https://dzone.com/articles/mulesoft-dataweave-language-reading-properties-fro)
 - [MuleSoft: Parse a Flat File to Copybook](https://dzone.com/articles/mulesoft-parse-flat-file-to-copybook)
 
-## API Testing
+### API Testing
 
 - [Mocking Database Endpoints in MUnit Tests](https://dzone.com/articles/mulesoft-mocking-database-endpoints-in-munit-test)
 
@@ -260,6 +262,7 @@
 - [Cheat Sheet: Addressing OWASP Top 10 Vulnerabilities in MuleSoft APIs](https://dzone.com/articles/cheatsheet-addressing-owasp-top-10-vulnerabilities)
 - [How to Encrypt Passwords in MuleSoft ESB Community Edition](https://dzone.com/articles/how-to-encrypt-passwords-and-other-private-informa)
 - [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
+
 
 ## Anypoint Templates
 
