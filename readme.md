@@ -223,6 +223,7 @@
 
 #### Salesforce Connector
 - [How to Integrate SalesForce With Mule](https://dzone.com/articles/salesforce-connector-with-anypoint-mulesoft-1)
+- [Connecting Salesforce With MuleSoft](https://dzone.com/articles/connecting-salesforce-from-mulesoft)
 - [MuleSoft, Salesforce UPSERT](https://dzone.com/articles/mulesoft-salesforce-crud-2)
 - [MuleSoft, Salesforce Request](https://dzone.com/articles/mulesoft-salesforce-crud)
 - [Salesforce Integration With MuleSoft Salesforce Connector](https://dzone.com/articles/mulesoft-salesforce-crud-2)
