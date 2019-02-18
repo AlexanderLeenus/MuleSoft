@@ -233,6 +233,8 @@
 - [Mulesoft Salesforce Integration: Using Upsert and Query](https://dzone.com/articles/mulesoft-salesforce-integrationusing-upsert-and-qu)
 - [How to Use Platform Events With MuleSoft's Salesforce Connector](https://dzone.com/articles/how-to-use-platform-events-with-mulesofts-salesfor)
 - [How to Call SalesforceBulkAPI Using the Batch Commit in Mule](https://dzone.com/articles/salesforcebulkapi-call-using-batch-commit-in-mule)
+- [Video: Salesforce Connector Demo: Integration with Mule](https://www.youtube.com/watch?v=UxnM4yQNiDU)
+
 
 #### Database Connectors
 - [MongoDB Connector for Hadoop 1.4](https://dzone.com/articles/mongodb-connector-for-hadoop-14)
