@@ -252,8 +252,7 @@
 - [How to Work With the ServiceNow Connector in MuleSoft](https://dzone.com/articles/mulesoft-integration-with-servicenow)
 
 #### Elasticserach Connector
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
-- [SAP Integration With MuleSoft](https://dzone.com/articles/sap-integration-with-mulesoft)
+
 
 #### Microsoft Connectors
 - [CRUD Operations using Microsoft Dynamic 365 Connector in Mule](https://dzone.com/articles/crud-operations-using-microsoft-dynamic-365-connec)
@@ -329,14 +328,14 @@
 
 ## MuleSoft Certifications
 
-### Developer Exams
+#### Developer Exams
 - [MuleSoft Certified Developer - Level 1 (Mule 4)](https://training.mulesoft.com/exam/mcd-level1)
 - [MuleSoft Certified Developer - Level 1 (Mule 4) DELTA](https://training.mulesoft.com/exam/mcd-level1-delta)
 - [MuleSoft Certified Developer - Integration and API Associate (Mule 3)](https://training.mulesoft.com/exam/mcd-assoc)
 - [MuleSoft Certified Developer - API Design Associate (RAML 1.0)](https://training.mulesoft.com/exam/mcd-raml)
 - [MuleSoft Certified Developer - Integration Professional (Mule 3)](https://training.mulesoft.com/exam/mcd-pro)
 
-### Architect exams
+#### Architect exams
 - [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/exam/mcpa-level1)
 - [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/exam/mcia-level1)
 
