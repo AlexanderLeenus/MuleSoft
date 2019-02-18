@@ -298,6 +298,8 @@
 - [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration)
 - [What's New in Mule 4](https://dzone.com/articles/whats-new-in-mule-4-1)
 - [Mulesoft's Mule 4 Vs Mule 3 Release, Why Upgrade?](https://blog.vsoftconsulting.com/blog/mule-4-vs-mule-3-release-which-is-more-beneficial)
+- [Mule 4 and Jenkins Pipeline](https://dzone.com/articles/mule-4-and-jenkins-pipeline)
+
 
 ## Project Management
 - [MuleSoft: Encouraging Teamwork to Enhance Productivity](https://dzone.com/articles/mulesoft-encouraging-teamwork-to-enhance-productiv)
