@@ -51,6 +51,7 @@
 - [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
 - [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
 - [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
+- [Comparing RESTful APIs and SOAP APIs Using MuleSoft as an Example](https://dzone.com/articles/comparing-restful-apis-and-soap-apis)
 
 
 
@@ -83,6 +84,7 @@
 ### Variables
 - [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
 - [MuleSoft's Scope of Session and Flow Variables](https://dzone.com/articles/scope-of-session-and-flow-variables)
+- [The Scope of Flow Variables and Session Variables in Async Flow in Mulesoft](https://dzone.com/articles/scope-of-flow-variables-and-session-variables-in-a)
 
 ### Processing Strategy
 - [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
@@ -159,13 +161,20 @@
 ## Anypoint Studio
 - [A Beginner's Guide to Mule](https://dzone.com/articles/mule-application-building-blocks)
 - [Creating a Mule ESB Sample Application](https://dzone.com/articles/mule-sample-application)
+- [Build a REST API with XML Payload](https://dzone.com/articles/build-a-rest-api-with-xml-payload)
 - [Transaction Management in MuleSoft/Anypoint Studio](https://dzone.com/articles/transaction-management-in-mulesoft)
+- [How to Consume RESTful Web Services With Mulesoft Anypoint Studio](https://dzone.com/articles/how-to-consume-restful-web-service-with-mulesoft-a)
+- [Consume Multiple Operations of SOAP-Based Web Service With Mulesoft Anypoint Studio](https://dzone.com/articles/consume-multiple-operations-of-soap-based-web-serv)
+- [Test](https://test.com)
+- [Test](https://test.com)
+
 
 ### DataWeave Language 
 
 - [CSV | XML | JSON in MuleSoft](https://dzone.com/articles/csv-xml-json-in-mulesoft)
 - [MuleSoft Dataweave Language: Reading Properties From Files Dynamically](https://dzone.com/articles/mulesoft-dataweave-language-reading-properties-fro)
 - [MuleSoft: Parse a Flat File to Copybook](https://dzone.com/articles/mulesoft-parse-flat-file-to-copybook)
+- [MuleSoft: Map a Complex Object to DataWeave With a Fixed-Width Format](https://dzone.com/articles/mulesoft-map-a-complex-object-to-dataweave-fixed-w)
 
 ### API Testing
 
@@ -218,6 +227,7 @@
 - [Mule 4: Database Connector Bulk Insert](https://dzone.com/articles/mule-4-database-connector-bulk-insert)
 - [Mule Database Connector With HSQLDB](https://dzone.com/articles/mule-database-connector-with-hsqldb)
 - [Introducing Hadoop (HDFS) Connector v5.0.0](https://dzone.com/articles/introducing-hadoop-hdfs-connector-v500)
+- [Using In-Memory Database in MuleSoft With Apache Derby](https://dzone.com/articles/use-of-in-memory-database-in-mulesoft-using-apache)
 
 ### Amazon Connectors
 - [Introducing Anypoint Connector for Amazon EC2](https://dzone.com/articles/introducing-anypoint-connector-for-amazon-ec2)
