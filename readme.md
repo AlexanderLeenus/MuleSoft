@@ -272,6 +272,7 @@
 - [Anypoint JMS Connector With Mulesoft](https://dzone.com/articles/anypoint-jms-connector-with-mulesoft)
 - [Connecting Apache Kafka With Mule ESB](https://dzone.com/articles/connecting-apache-kafka-with-mule-esb)
 - [ActiveMQ Integration With Mulesoft](https://dzone.com/articles/activemq-with-mulesoft)
+- [Send Message to TIBCO EMS From JMS Connector in Mule 4.x](https://dzone.com/articles/send-message-to-tibco-ems-from-jms-connector-in-mu)
 
 #### Internet of Things
 - [MuleSoft IoT: MuleSoft, Git, Docker, and Raspberry Pi](https://dzone.com/articles/mulesoft-iot-mulesoft-git-docker-raspberry-pi)
