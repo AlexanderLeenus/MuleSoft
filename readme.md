@@ -295,6 +295,7 @@
 
 ## Use Cases
 - [Creating a System API Using MuleSoft](https://dzone.com/articles/creating-system-api-using-mulesoft)
+- [Anypoint Platform Capabilities and an API-Led Connectivity Example](https://dzone.com/articles/anypoint-platform-capabilities-and-an-api-led-conn)
 
 
 ## Trainings & Courses
