@@ -102,6 +102,7 @@
 ### Exception Strategies
 - [MuleSoft Exception Strategies](https://dzone.com/articles/mulesoft-exception-strategies)
 - [Types of Exception Strategies in MuleSoft Anypoint Studio](https://dzone.com/articles/what-are-different-types-of-exception-strategy-in)
+- [HowTo – Exceptions and Error Handling in Mule](https://blogs.mulesoft.com/dev/howto/howto-exceptions-and-error-handling-in-mule/)
 
 ### Message Transformation
 - [Transforming Multipart/Form-Data Into XML Using MuleSoft and JavaScript](https://dzone.com/articles/transforming-multipartform-data-into-xml-using-mul)
