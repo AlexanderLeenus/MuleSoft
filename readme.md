@@ -39,9 +39,9 @@
 
 ## API Best Practices
 - [Principles for API Development](https://www.mulesoft.com/resources/api/development-best-practices)
-
-
-
+- [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
+- [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
+- [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
 
 ## Design Approach
 - [Understanding API Design](https://dzone.com/articles/understanding-api-design)
@@ -50,9 +50,6 @@
 - [5 reasons why ESB-led integration is out and API-led integration is in](https://blogs.mulesoft.com/biz/api/5-reasons-why-esb-led-integration-is-out-and-api-led-integration-is-in/)
 - [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 - [MuleSoft API Lifecycle Management](https://dzone.com/articles/mulesoft-api-management-life-cycle)
-- [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
-- [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
-- [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
 - [Comparing RESTful APIs and SOAP APIs Using MuleSoft as an Example](https://dzone.com/articles/comparing-restful-apis-and-soap-apis)
 - [Understanding Hybrid Integration Platforms](https://dzone.com/articles/understanding-hybrid-integration-platforms)
 - [Key Differences between ESB, EAI and SOA](https://www.innovativearchitects.com/KnowledgeCenter/business-connectivity/ESB-EAI-SOA.aspx)
@@ -322,11 +319,14 @@
 - [Maven Repository Manager: Nexus Vs. Artifactory](https://dzone.com/articles/maven-repository-manager-nexus)
 - [Git - Distributed Version-Control System](https://git-scm.com/)
 - [Maven vs Non Mavenised project in mulesoft](https://forums.mulesoft.com/questions/42868/maven-vs-non-mavenised-project-in-mulesoft.html)
-- [Jira - Issue & Project Tracking Software](https://www.atlassian.com/software/jira)
-- [Confluence - Create, Share, & Collaborate On Projects All In One Place](https://www.atlassian.com/software/confluence)
+- [Atlassian Jira - Issue & Project Tracking Software](https://www.atlassian.com/software/jira)
+- [Atlassian Confluence - Create, Share, & Collaborate On Projects All In One Place](https://www.atlassian.com/software/confluence)
+- [Eclipse - Java IDE](https://www.eclipse.org/downloads/)
 
 ## Project Management
 - [MuleSoft: Encouraging Teamwork to Enhance Productivity](https://dzone.com/articles/mulesoft-encouraging-teamwork-to-enhance-productiv)
+- [What is agile project development?](https://www.mulesoft.com/resources/api/what-agile-project-development)
+- [What is Agile | What is Scrum?](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
 
 ## Use Cases & Examples
 - [Creating a System API Using MuleSoft](https://dzone.com/articles/creating-system-api-using-mulesoft)
