@@ -79,8 +79,9 @@
 - [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
 - [Iterative Processing Using the For Each Scope in Mule](https://dzone.com/articles/iterative-processing-using-for-each-scope-mule)
 
-### Filters
+### Filters & Validations
 - [Types of Anypoint Filters With Mulesoft](https://dzone.com/articles/different-types-of-anypoint-filters-in-mulesoft)
+- [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
 
 ### Router
 - [First Successful Router in Mule](https://dzone.com/articles/first-successful-router-in-mule)
@@ -293,7 +294,7 @@
 
 
 ## Anypoint Security
-
+- [Introduction To Mule API Security: Simple Authentication](https://dzone.com/articles/introduction-to-mule-api-security-simple-authencat)
 - [SAML vs. OAuth: Which One Should I Use?](https://dzone.com/articles/saml-versus-oauth-which-one)
 - [Mulesoft Basic Authentication With HTTPS](https://dzone.com/articles/mulesoft-basic-authentication-with-https)
 - [ Steps to Implement OAuth2.0 in Mule Applications](https://dzone.com/articles/steps-to-implement-oauth-20-in-mule-applications)
@@ -306,6 +307,7 @@
 - [API security: Ways to authenticate and authorize](https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/)
 - [Creating Custom Policies in MuleSoft](https://dzone.com/articles/creating-custom-policies-in-mulesoft)
 - [Implementing a Custom OAuth Policy in Mule](https://dzone.com/articles/implementing-the-custom-oauth-policy-in-mule)
+
 
 
 
