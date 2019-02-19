@@ -341,6 +341,7 @@
 - [API security: Ways to authenticate and authorize](https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/)
 - [Creating Custom Policies in MuleSoft](https://dzone.com/articles/creating-custom-policies-in-mulesoft)
 - [Implementing a Custom OAuth Policy in Mule](https://dzone.com/articles/implementing-the-custom-oauth-policy-in-mule)
+- [Difference Between Keystores and Truststores](https://docs.mulesoft.com/mule-runtime/4.1/tls-configuration)
 
 
 
