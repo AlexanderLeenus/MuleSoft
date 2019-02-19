@@ -349,6 +349,7 @@
 - [Mulesoft - Mule ESB from Beginner to Expert](https://www.udemy.com/mule-esb-tutorial/)
 - [Mule ESB in Depth](https://www.udemy.com/mule-esb/)
 - [Mulesoft Mule ESB Certification - Associate Practice Test](https://www.udemy.com/mulesoft-certificate-practice-test/)
+- [JSON JavaScript - Quick Course JSON for beginners](https://www.udemy.com/json-javascript/learn/v4/overview)
 
 #### YouTube Videos
 - [ProgrammableWeb's APIs 101 Training Series](https://www.youtube.com/watch?v=cpRcK4GS068&list=PLcgRuP1JhcBP8Kh0MC53GH_pxqfOhTVLa)
@@ -371,6 +372,8 @@
 ## Miscellaneous
 - [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
 - [5 Tips for Writing a Successful Software RFP](https://www.softwareadvice.com/resources/software-rfp-tips/)
+- [MuleSoft Questions & Answers](https://www.icloud.com/pages/0SM4fhW-vevjpLp3DbekezY6w#MuleSoft_Questions_%26_Answers)
+- [MuleSoft Scenario Questions & Answers](https://www.icloud.com/pages/0J5-NEgCIEBGzp6L-b3d0qY1Q#MuleSoft_Scenario_Questions_%26_Answers)
 
 ## License
 
