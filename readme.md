@@ -234,7 +234,11 @@
 
 - [Mocking Database Endpoints in MUnit Tests](https://dzone.com/articles/mulesoft-mocking-database-endpoints-in-munit-test)
 - [MUnit With Mule 4.0](https://dzone.com/articles/munit-with-mule-40)
-
+- [MUnit Framework- Mule Unit Testing](https://dzone.com/articles/munit-framework)
+- [Unit Testing Mule DataWeave Scripts with MUnit](https://dzone.com/articles/unit-testing-mule-dataweave-scripts-with-munit-1)
+- [Intro to MUnit and Mule Runtime](https://dzone.com/articles/munit-mule-runtime-intro)
+- [An Introduction to Unit Tests by Mule- MUnit](https://dzone.com/articles/an-introduction-to-unit-test-by-mule-munit)
+- [MuleSoft: Functional Test Case](https://dzone.com/articles/mulesoft-functional-test-case)
 
 ## Anypoint Connectors
 
