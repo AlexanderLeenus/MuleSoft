@@ -133,6 +133,10 @@
 ### Validation
 - [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
 
+### Transaction Management
+- [Transaction Management in MuleSoft/Anypoint Studio](https://dzone.com/articles/transaction-management-in-mulesoft)
+- [How to Handle Transaction Scope in Mule](https://dzone.com/articles/how-to-handle-transaction-scope-in-mule)
+
 ### Batch Processing & Polling
 - [Anypoint Batch Processing and Polling Scope With Mulesoft](https://dzone.com/articles/anypoint-batch-processing-with-mulesoft)
 - [MuleSoft Polling-As-A-Service](https://dzone.com/articles/mulesoft-polling-as-a-service)
@@ -152,6 +156,8 @@
 - [Concurrently Processing Split Payloads and Collecting Result in MuleSoft](https://dzone.com/articles/concurrently-processing-of-split-payload-and-colle)
 - [Splitter and Collection Aggregator With Mulesoft](https://dzone.com/articles/mulesoft-polling-as-a-service)
 - [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
+
+
 
 ## Anypoint Platform
 
