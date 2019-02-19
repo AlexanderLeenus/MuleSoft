@@ -201,7 +201,7 @@
 
 
 #### Data Gateway
--[Anypoint Data Gateway](https://docs.mulesoft.com/data-gateway/)
+- [Anypoint Data Gateway](https://docs.mulesoft.com/data-gateway/)
 
 
 #### Visualizer
