@@ -60,20 +60,6 @@
 
 
 ## Core Mule ESB
-- [Demonstrating Domain Projects in MuleSoft](https://dzone.com/articles/demonstrating-domain-projects-in-mulesoft-1)
-- [Implementing Object Store With Mule ESB](https://dzone.com/articles/object-store-with-mule-esb)
-- [Mule ESB in Docker](https://dzone.com/articles/mule-esb-docker)
-- [Using Drools in Mule ESB](https://dzone.com/articles/drools-in-mule-esb-1)
-- [Scatter-Gather in Mule ESB](https://dzone.com/articles/scatter-gather-mule-esb)
-- [How to Use Poll Reference, For Each, and Properties Files in Mule](https://dzone.com/articles/how-to-use-the-poll-reference-for-each-and-propert)
-- [Implementing Message Enrichment in MuleSoft](https://dzone.com/articles/implementing-message-enrichment-in-mulesoft)
-- [MuleSoft: Using a Groovy Component](https://dzone.com/articles/mulesoft-using-groovy-component)
-- [Cache Implementation in MuleSoft](https://dzone.com/articles/cache-implementation-in-mulesoft)
-- [Multicasting (Scatter-Gather) Messages With MuleSoft](https://dzone.com/articles/multicasting-scatter-gather-messages-with-mulesoft)
-- [Concurrently Processing Split Payloads and Collecting Result in MuleSoft](https://dzone.com/articles/concurrently-processing-of-split-payload-and-colle)
-- [Splitter and Collection Aggregator With Mulesoft](https://dzone.com/articles/mulesoft-polling-as-a-service)
-- [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
-
 
 ### General
 - [Mule ESB - Most Popular Enterprise Service Bus](https://dzone.com/articles/mule-esb-most-popular)
@@ -81,6 +67,10 @@
 - [Mule in a Nutshell](https://dzone.com/refcardz/core-mule?chapter=1)
 - [Commanding Unix with Mule](https://dzone.com/articles/commanding-unix-with-mule)
 
+### Flows
+- [Mule Sub-Flows, Processing Strategy, and One-Way Endpoints](https://dzone.com/articles/mule-sub-flows-processing-strategy-and-one-way-end)
+- [Private vs. Sub Flow in Mule](https://dzone.com/articles/private-vs-sub-flow-in-mule)
+- [Mule Reading Files in the Middle of the Flow Using Mule-Requester](https://dzone.com/articles/mule-reading-file-in-the-middle-of-a-flow-using-mu)
 
 ### Variables
 - [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
@@ -104,7 +94,7 @@
 - [Types of Exception Strategies in MuleSoft Anypoint Studio](https://dzone.com/articles/what-are-different-types-of-exception-strategy-in)
 - [HowTo – Exceptions and Error Handling in Mule](https://blogs.mulesoft.com/dev/howto/howto-exceptions-and-error-handling-in-mule/)
 
-### Message Transformation
+### Transformation
 - [Transforming Multipart/Form-Data Into XML Using MuleSoft and JavaScript](https://dzone.com/articles/transforming-multipartform-data-into-xml-using-mul)
 - [Mule Message Data and Expression Language](https://dzone.com/articles/mule-message-data-and-expression-language)
 
@@ -115,6 +105,21 @@
 - [Anypoint Batch Processing and Polling Scope With Mulesoft](https://dzone.com/articles/anypoint-batch-processing-with-mulesoft)
 - [MuleSoft Polling-As-A-Service](https://dzone.com/articles/mulesoft-polling-as-a-service)
 - [MuleSoft Poll Scope and Watermark](https://dzone.com/articles/mulesoft-polling-scope-and-watermark)
+
+### Other Message Integration Techniques
+- [Demonstrating Domain Projects in MuleSoft](https://dzone.com/articles/demonstrating-domain-projects-in-mulesoft-1)
+- [Implementing Object Store With Mule ESB](https://dzone.com/articles/object-store-with-mule-esb)
+- [Mule ESB in Docker](https://dzone.com/articles/mule-esb-docker)
+- [Using Drools in Mule ESB](https://dzone.com/articles/drools-in-mule-esb-1)
+- [Scatter-Gather in Mule ESB](https://dzone.com/articles/scatter-gather-mule-esb)
+- [How to Use Poll Reference, For Each, and Properties Files in Mule](https://dzone.com/articles/how-to-use-the-poll-reference-for-each-and-propert)
+- [Implementing Message Enrichment in MuleSoft](https://dzone.com/articles/implementing-message-enrichment-in-mulesoft)
+- [MuleSoft: Using a Groovy Component](https://dzone.com/articles/mulesoft-using-groovy-component)
+- [Cache Implementation in MuleSoft](https://dzone.com/articles/cache-implementation-in-mulesoft)
+- [Multicasting (Scatter-Gather) Messages With MuleSoft](https://dzone.com/articles/multicasting-scatter-gather-messages-with-mulesoft)
+- [Concurrently Processing Split Payloads and Collecting Result in MuleSoft](https://dzone.com/articles/concurrently-processing-of-split-payload-and-colle)
+- [Splitter and Collection Aggregator With Mulesoft](https://dzone.com/articles/mulesoft-polling-as-a-service)
+- [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
 
 ## Anypoint Platform
 
@@ -176,7 +181,8 @@
 - [How to Consume RESTful Web Services With Mulesoft Anypoint Studio](https://dzone.com/articles/how-to-consume-restful-web-service-with-mulesoft-a)
 - [Consume Multiple Operations of SOAP-Based Web Service With Mulesoft Anypoint Studio](https://dzone.com/articles/consume-multiple-operations-of-soap-based-web-serv)
 - [Managing Mule Schedules With Anypoint Runtime Manager](https://dzone.com/articles/managing-mule-schedules-with-anypoint-runtime-mana)
-- [Test](https://test.com)
+- [Making SOAP With Mule Runtime](https://dzone.com/articles/make-soap-with-mule-esb)
+- [Consuming SOAP Web Services Using Mule](https://dzone.com/articles/consuming-soap-web-service-using-mule)
 
 
 ### DataWeave Language 
@@ -240,6 +246,8 @@
 #### Database Connectors
 - [MongoDB Connector for Hadoop 1.4](https://dzone.com/articles/mongodb-connector-for-hadoop-14)
 - [Mule 4: Database Connector Bulk Insert](https://dzone.com/articles/mule-4-database-connector-bulk-insert)
+- [MySQL Database SELECT Query Operation in Mule 4](https://dzone.com/articles/mysql-database-select-query-operation-in-mule-4)
+- [Inserting Data Into a Database Using Batch Job](https://dzone.com/articles/inserting-data-to-database-using-batch-job)
 - [Mule Database Connector With HSQLDB](https://dzone.com/articles/mule-database-connector-with-hsqldb)
 - [Introducing Hadoop (HDFS) Connector v5.0.0](https://dzone.com/articles/introducing-hadoop-hdfs-connector-v500)
 - [Using In-Memory Database in MuleSoft With Apache Derby](https://dzone.com/articles/use-of-in-memory-database-in-mulesoft-using-apache)
@@ -274,6 +282,7 @@
 - [Connecting Apache Kafka With Mule ESB](https://dzone.com/articles/connecting-apache-kafka-with-mule-esb)
 - [ActiveMQ Integration With Mulesoft](https://dzone.com/articles/activemq-with-mulesoft)
 - [Send Message to TIBCO EMS From JMS Connector in Mule 4.x](https://dzone.com/articles/send-message-to-tibco-ems-from-jms-connector-in-mu)
+- [Mule 4: JMS Pub and Sub With Transformation](https://dzone.com/articles/mule-4-jms-pub-amp-sub-with-transformation)
 
 #### Internet of Things
 - [MuleSoft IoT: MuleSoft, Git, Docker, and Raspberry Pi](https://dzone.com/articles/mulesoft-iot-mulesoft-git-docker-raspberry-pi)
@@ -298,6 +307,7 @@
 - [How to Encrypt Passwords in MuleSoft ESB Community Edition](https://dzone.com/articles/how-to-encrypt-passwords-and-other-private-informa)
 - [MuleSoft: Develop a Project From Behind the Firewall](https://dzone.com/articles/mulesoft-develop-project-from-behind-the-firewall)
 - [API security: Ways to authenticate and authorize](https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/)
+- [Creating Custom Policies in MuleSoft](https://dzone.com/articles/creating-custom-policies-in-mulesoft)
 - [Implementing a Custom OAuth Policy in Mule](https://dzone.com/articles/implementing-the-custom-oauth-policy-in-mule)
 
 
@@ -309,6 +319,9 @@
 - [What's New in Mule 4](https://dzone.com/articles/whats-new-in-mule-4-1)
 - [Mulesoft's Mule 4 Vs Mule 3 Release, Why Upgrade?](https://blog.vsoftconsulting.com/blog/mule-4-vs-mule-3-release-which-is-more-beneficial)
 - [Mule 4 and Jenkins Pipeline](https://dzone.com/articles/mule-4-and-jenkins-pipeline)
+- [Maven Repository Manager: Nexus Vs. Artifactory](https://dzone.com/articles/maven-repository-manager-nexus)
+- [Git](https://git-scm.com/)
+- [Maven vs Non Mavenised project in mulesoft](https://forums.mulesoft.com/questions/42868/maven-vs-non-mavenised-project-in-mulesoft.html)
 
 
 ## Project Management
@@ -354,7 +367,7 @@
 
 ## Miscellaneous
 - [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
-
+- [5 Tips for Writing a Successful Software RFP](https://www.softwareadvice.com/resources/software-rfp-tips/)
 
 ## License
 
