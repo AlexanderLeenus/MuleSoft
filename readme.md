@@ -253,6 +253,7 @@
 - [An Introduction to Unit Tests by Mule- MUnit](https://dzone.com/articles/an-introduction-to-unit-test-by-mule-munit)
 - [MuleSoft: Functional Test Case](https://dzone.com/articles/mulesoft-functional-test-case)
 - [Propagate an Error Response in Mule API](https://dzone.com/articles/propagate-an-error-response-in-mule-api)
+- [Difference between error, debug, warn, fatal, info and trace in Log4j?](https://www.quora.com/What-is-the-difference-between-error-debug-warn-fatal-info-and-trace-in-Log4j)
 
 ## Anypoint Connectors
 
