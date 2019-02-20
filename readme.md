@@ -73,17 +73,17 @@
 
 ## Best Practices
 
-### API Best Practices
+#### API Best Practices
 - [Principles for API Development](https://www.mulesoft.com/resources/api/development-best-practices)
 - [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
 - [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
 - [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
 - [Integration best practices: pioneer digital transformation with community](https://blogs.mulesoft.com/biz/integration-best-practices-community/)
 
-### Mule Best Practices
+#### Mule Best Practices
 - [Best practices for Mule project](https://jazzteam.org/en/technical-articles/best-practices-mule-esb/)
 - [Mule Development – Best Practices](https://wp.nyu.edu/developers/2018/03/29/mule-development-best-practices/)
-- 
+
 
 ## Design Approach
 - [Understanding API Design](https://dzone.com/articles/understanding-api-design)
@@ -100,57 +100,57 @@
 
 ## Core Mule ESB
 
-### General
+#### General
 - [Mule ESB - Most Popular Enterprise Service Bus](https://dzone.com/articles/mule-esb-most-popular)
 - [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
 - [Mule in a Nutshell](https://dzone.com/refcardz/core-mule?chapter=1)
 - [Commanding Unix with Mule](https://dzone.com/articles/commanding-unix-with-mule)
 
-### Flows
+#### Flows
 - [Mule Sub-Flows, Processing Strategy, and One-Way Endpoints](https://dzone.com/articles/mule-sub-flows-processing-strategy-and-one-way-end)
 - [Private vs. Sub Flow in Mule](https://dzone.com/articles/private-vs-sub-flow-in-mule)
 - [Mule Reading Files in the Middle of the Flow Using Mule-Requester](https://dzone.com/articles/mule-reading-file-in-the-middle-of-a-flow-using-mu)
 
-### Variables
+#### Variables
 - [What Are Anypoint Flow, Session, and Property Variables in MuleSoft?](https://dzone.com/articles/understanding-the-anypoint-flow-session-variable-a)
 - [MuleSoft's Scope of Session and Flow Variables](https://dzone.com/articles/scope-of-session-and-flow-variables)
 - [The Scope of Flow Variables and Session Variables in Async Flow in Mulesoft](https://dzone.com/articles/scope-of-flow-variables-and-session-variables-in-a)
 - [Mule Batch Jobs and Variables](https://dzone.com/articles/mule-batch-jobs-and-its-variables)
 
-### Processing
+#### Processing
 - [Parallel Processing in Mule](https://dzone.com/articles/parallel-processing-in-mule-1)
 - [Iterative Processing Using the For Each Scope in Mule](https://dzone.com/articles/iterative-processing-using-for-each-scope-mule)
 
-### Filters & Validations
+#### Filters & Validations
 - [Types of Anypoint Filters With Mulesoft](https://dzone.com/articles/different-types-of-anypoint-filters-in-mulesoft)
 - [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
 
-### Router
+#### Router
 - [First Successful Router in Mule](https://dzone.com/articles/first-successful-router-in-mule)
 - [What Is Content-Based Routing With Mulesoft?](https://dzone.com/articles/what-is-content-based-routing-with-mulesoft)
 
-### Exception Strategies
+#### Exception Strategies
 - [MuleSoft Exception Strategies](https://dzone.com/articles/mulesoft-exception-strategies)
 - [Types of Exception Strategies in MuleSoft Anypoint Studio](https://dzone.com/articles/what-are-different-types-of-exception-strategy-in)
 - [HowTo – Exceptions and Error Handling in Mule](https://blogs.mulesoft.com/dev/howto/howto-exceptions-and-error-handling-in-mule/)
 
-### Transformation
+#### Transformation
 - [Transforming Multipart/Form-Data Into XML Using MuleSoft and JavaScript](https://dzone.com/articles/transforming-multipartform-data-into-xml-using-mul)
 - [Mule Message Data and Expression Language](https://dzone.com/articles/mule-message-data-and-expression-language)
 
-### Validation
+#### Validation
 - [What Are Anypoint Validations With Mulesoft?](https://dzone.com/articles/what-are-anypoint-validations-with-mulesoft)
 
-### Transaction Management
+#### Transaction Management
 - [Transaction Management in MuleSoft/Anypoint Studio](https://dzone.com/articles/transaction-management-in-mulesoft)
 - [How to Handle Transaction Scope in Mule](https://dzone.com/articles/how-to-handle-transaction-scope-in-mule)
 
-### Batch Processing & Polling
+#### Batch Processing & Polling
 - [Anypoint Batch Processing and Polling Scope With Mulesoft](https://dzone.com/articles/anypoint-batch-processing-with-mulesoft)
 - [MuleSoft Polling-As-A-Service](https://dzone.com/articles/mulesoft-polling-as-a-service)
 - [MuleSoft Poll Scope and Watermark](https://dzone.com/articles/mulesoft-polling-scope-and-watermark)
 
-### Other Message Integration Techniques
+#### Other Message Integration Techniques
 - [Demonstrating Domain Projects in MuleSoft](https://dzone.com/articles/demonstrating-domain-projects-in-mulesoft-1)
 - [Implementing Object Store With Mule ESB](https://dzone.com/articles/object-store-with-mule-esb)
 - [Mule ESB in Docker](https://dzone.com/articles/mule-esb-docker)
