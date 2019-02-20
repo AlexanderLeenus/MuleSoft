@@ -391,11 +391,13 @@
 - [What is agile project development?](https://www.mulesoft.com/resources/api/what-agile-project-development)
 - [What is Agile | What is Scrum?](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
 
-## Use Cases & Examples
+## Use Cases & Case Studies
 - [Creating a System API Using MuleSoft](https://dzone.com/articles/creating-system-api-using-mulesoft)
 - [Anypoint Platform Capabilities and an API-Led Connectivity Example](https://dzone.com/articles/anypoint-platform-capabilities-and-an-api-led-conn)
 - [Mulesoft Anypoint Examples](https://github.com/mulesoft/anypoint-examples)
 - [Mulesoft Official GitHub Page](https://github.com/mulesoft)
+- [APIs in Action: Exploring API Use Cases](https://www.mulesoft.com/resources/api/use-cases-digital-transformation)
+- [42 MuleSoft Case Studies](https://www.featuredcustomers.com/vendor/mulesoft/case-studies)
 
 
 ## Trainings & Courses
