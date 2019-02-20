@@ -79,6 +79,7 @@
 - [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
 - [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
 - [Integration best practices: pioneer digital transformation with community](https://blogs.mulesoft.com/biz/integration-best-practices-community/)
+- [Best Practices for API Error Handling]
 
 #### Mule Best Practices
 - [Best practices for Mule project](https://jazzteam.org/en/technical-articles/best-practices-mule-esb/)
@@ -86,6 +87,7 @@
 
 #### Coding Best Practices
 - [Programming Best Practices Ever](https://dzone.com/articles/best-best-practices-ever)
+- [Coding Best Practices and Solutions](https://dzone.com/articles/coding-best-practices-and-solutions)
 
 ## Design Approach
 - [Understanding API Design](https://dzone.com/articles/understanding-api-design)
@@ -250,6 +252,7 @@
 - [Intro to MUnit and Mule Runtime](https://dzone.com/articles/munit-mule-runtime-intro)
 - [An Introduction to Unit Tests by Mule- MUnit](https://dzone.com/articles/an-introduction-to-unit-test-by-mule-munit)
 - [MuleSoft: Functional Test Case](https://dzone.com/articles/mulesoft-functional-test-case)
+- [Propagate an Error Response in Mule API](https://dzone.com/articles/propagate-an-error-response-in-mule-api)
 
 ## Anypoint Connectors
 
@@ -346,6 +349,7 @@
 
 #### Others
 - [PayPal Integration Within MULE ESB](https://dzone.com/articles/paypal-integration-with-in-mule-esb)
+- [Object Store Connector in Mule ESB](https://dzone.com/articles/working-with-object-store-in-mulesoft)
 
 
 ## Anypoint Security
