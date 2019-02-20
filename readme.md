@@ -208,6 +208,7 @@
 #### Runtime Manager
 
 - [Automating API Monitoring Using MuleSoft Flow DesignerAPI-Led Connectivity](https://dzone.com/articles/automating-api-monitoring-using-mulesoft-flow-desi)
+[Create a Cluster Using Runtime Manager (Hybrid) With Mule ESB and Anypoint](https://dzone.com/articles/to-create-a-cluster-using-run-time-manager-hybrid)
 
 
 
@@ -254,6 +255,7 @@
 - [MuleSoft: Functional Test Case](https://dzone.com/articles/mulesoft-functional-test-case)
 - [Propagate an Error Response in Mule API](https://dzone.com/articles/propagate-an-error-response-in-mule-api)
 - [Difference between error, debug, warn, fatal, info and trace in Log4j?](https://www.quora.com/What-is-the-difference-between-error-debug-warn-fatal-info-and-trace-in-Log4j)
+[Dynamically Change Logging Level of Application in Mule Run-Time](https://dzone.com/articles/dynamically-change-logging-level-of-application-in)
 
 ## Anypoint Connectors
 
