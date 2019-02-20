@@ -84,6 +84,8 @@
 - [Best practices for Mule project](https://jazzteam.org/en/technical-articles/best-practices-mule-esb/)
 - [Mule Development – Best Practices](https://wp.nyu.edu/developers/2018/03/29/mule-development-best-practices/)
 
+#### Coding Best Practices
+- [Programming Best Practices Ever](https://dzone.com/articles/best-best-practices-ever)
 
 ## Design Approach
 - [Understanding API Design](https://dzone.com/articles/understanding-api-design)
