@@ -71,11 +71,19 @@
 
 
 
-## API Best Practices
+## Best Practices
+
+### API Best Practices
 - [Principles for API Development](https://www.mulesoft.com/resources/api/development-best-practices)
 - [API Design: A Documentation-first Approach](https://dzone.com/articles/api-design-a-documentation-first-approach-1)
 - [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
 - [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
+- [Integration best practices: pioneer digital transformation with community](https://blogs.mulesoft.com/biz/integration-best-practices-community/)
+
+### Mule Best Practices
+- [Best practices for Mule project](https://jazzteam.org/en/technical-articles/best-practices-mule-esb/)
+- [Mule Development – Best Practices](https://wp.nyu.edu/developers/2018/03/29/mule-development-best-practices/)
+- 
 
 ## Design Approach
 - [Understanding API Design](https://dzone.com/articles/understanding-api-design)
