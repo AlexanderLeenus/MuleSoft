@@ -79,7 +79,7 @@
 - [API Development: Design-First or Code-First?](https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach)
 - [An API-First Development Approach](https://dzone.com/articles/an-api-first-development-approach-1)
 - [Integration best practices: pioneer digital transformation with community](https://blogs.mulesoft.com/biz/integration-best-practices-community/)
-- [Best Practices for API Error Handling]
+- [Best Practices for API Error Handling](https://dzone.com/articles/best-practices-for-api-error-handling)
 
 #### Mule Best Practices
 - [Best practices for Mule project](https://jazzteam.org/en/technical-articles/best-practices-mule-esb/)
