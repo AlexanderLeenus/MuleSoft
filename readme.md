@@ -168,6 +168,8 @@
 - [Concurrently Processing Split Payloads and Collecting Result in MuleSoft](https://dzone.com/articles/concurrently-processing-of-split-payload-and-colle)
 - [Splitter and Collection Aggregator With Mulesoft](https://dzone.com/articles/mulesoft-polling-as-a-service)
 - [A Comparison of Two Large CSV Files in MuleSoft](https://dzone.com/articles/comparing-two-large-csv-files-in-mulesoft)
+- [Difference between queue vs topic](https://stackoverflow.com/questions/5576415/jms-topic-vs-queues)
+- 
 
 
 
@@ -439,6 +441,7 @@
 - [5 Tips for Writing a Successful Software RFP](https://www.softwareadvice.com/resources/software-rfp-tips/)
 - [MuleSoft Questions & Answers](https://www.icloud.com/pages/0SM4fhW-vevjpLp3DbekezY6w#MuleSoft_Questions_%26_Answers)
 - [MuleSoft Scenario Questions & Answers](https://www.icloud.com/pages/0J5-NEgCIEBGzp6L-b3d0qY1Q#MuleSoft_Scenario_Questions_%26_Answers)
+- [FIFO (First-In-First-Out) approach in Programming](https://www.geeksforgeeks.org/fifo-first-in-first-out-approach-in-programming/)
 
 ## License
 
