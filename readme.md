@@ -159,6 +159,7 @@
 - [Implementing Object Store With Mule ESB](https://dzone.com/articles/object-store-with-mule-esb)
 - [Mule ESB in Docker](https://dzone.com/articles/mule-esb-docker)
 - [Using Drools in Mule ESB](https://dzone.com/articles/drools-in-mule-esb-1)
+- [Integrating Drools With Mule ESB](https://dzone.com/articles/integrating-drools-with-mule-esb)
 - [Scatter-Gather in Mule ESB](https://dzone.com/articles/scatter-gather-mule-esb)
 - [How to Use Poll Reference, For Each, and Properties Files in Mule](https://dzone.com/articles/how-to-use-the-poll-reference-for-each-and-propert)
 - [Implementing Message Enrichment in MuleSoft](https://dzone.com/articles/implementing-message-enrichment-in-mulesoft)
