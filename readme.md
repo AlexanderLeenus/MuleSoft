@@ -315,6 +315,7 @@
 - [Using In-Memory Database in MuleSoft With Apache Derby](https://dzone.com/articles/use-of-in-memory-database-in-mulesoft-using-apache)
 - [Introducing Anypoint Connector for Cassandra](https://dzone.com/articles/introducing-anypoint-connector-for-cassandra)
 - [Introducing Anypoint Connector for Neo4J](https://dzone.com/articles/introducing-anypoint-connector-for-neo4j)
+- [Mule 4 Videos| Mule Crowd Release| Oracle Database Insert](https://www.youtube.com/watch?v=ZoSgtw92xIE)
 
 
 #### Amazon Connectors
