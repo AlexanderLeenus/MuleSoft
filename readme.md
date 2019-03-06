@@ -440,6 +440,7 @@
 
 ## Miscellaneous
 - [MuleSoft Glossary & Terms](https://www.mulesoft.com/integration-resources/glossary)
+- [API Evangelist - API Lifecycle](https://apievangelist.com/#api-lifecycle)
 - [5 Tips for Writing a Successful Software RFP](https://www.softwareadvice.com/resources/software-rfp-tips/)
 - [MuleSoft Questions & Answers](https://www.icloud.com/pages/0SM4fhW-vevjpLp3DbekezY6w#MuleSoft_Questions_%26_Answers)
 - [MuleSoft Scenario Questions & Answers](https://www.icloud.com/pages/0J5-NEgCIEBGzp6L-b3d0qY1Q#MuleSoft_Scenario_Questions_%26_Answers)
