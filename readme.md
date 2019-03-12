@@ -377,6 +377,7 @@
 - [Implementing a Custom OAuth Policy in Mule](https://dzone.com/articles/implementing-the-custom-oauth-policy-in-mule)
 - [Difference Between Keystores and Truststores](https://docs.mulesoft.com/mule-runtime/4.1/tls-configuration)
 - [Apply Rate Limiting Policy](https://www.slideshare.net/VinceSoliza/apply-policies-in-api-proxy)
+- [API Throttling Made Easy](https://dzone.com/articles/api-throttling-made-easy)
 
 
 
