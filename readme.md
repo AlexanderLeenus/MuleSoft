@@ -110,6 +110,7 @@
 - [A Full Introduction to Mule Enterprise](https://dzone.com/articles/full-introduction-mule)
 - [Mule in a Nutshell](https://dzone.com/refcardz/core-mule?chapter=1)
 - [Commanding Unix with Mule](https://dzone.com/articles/commanding-unix-with-mule)
+- [MULE – SEDA](https://muleaction.wordpress.com/mule-seda/)
 
 #### Flows
 - [Mule Sub-Flows, Processing Strategy, and One-Way Endpoints](https://dzone.com/articles/mule-sub-flows-processing-strategy-and-one-way-end)
