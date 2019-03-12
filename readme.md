@@ -84,6 +84,7 @@
 #### Mule Best Practices
 - [Best practices for Mule project](https://jazzteam.org/en/technical-articles/best-practices-mule-esb/)
 - [Mule Development – Best Practices](https://wp.nyu.edu/developers/2018/03/29/mule-development-best-practices/)
+- [HowTo – Exceptions and Error Handling in Mule](https://blogs.mulesoft.com/dev/howto/howto-exceptions-and-error-handling-in-mule/)
 
 #### Coding Best Practices
 - [Programming Best Practices Ever](https://dzone.com/articles/best-best-practices-ever)
@@ -191,6 +192,7 @@
 - [Converting Swagger to RAML](https://dzone.com/articles/converting-swagger-to-raml)
 - [RAML or OpenAPI - How About Both?](https://dzone.com/articles/raml-or-openapi-how-about-both)
 - [Understanding Resource Types and Traits With RAML](https://dzone.com/articles/understanding-resourcetypes-and-traits-with-raml)
+- [What is an API Fragment?](https://blogs.mulesoft.com/dev/api-dev/what-is-an-api-fragment/)
 
 
 ### Mule Application
