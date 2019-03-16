@@ -89,6 +89,8 @@
 #### Coding Best Practices
 - [Programming Best Practices Ever](https://dzone.com/articles/best-best-practices-ever)
 - [Coding Best Practices and Solutions](https://dzone.com/articles/coding-best-practices-and-solutions)
+- [Agile vs. Traditional Development](http://www.professionalqa.com/agile-vs-traditional-development)
+- [differences among the C, C++, & Java languages?](https://www.quora.com/What-are-the-differences-among-the-C-C++-Java-languages)
 
 ## Design Approach
 - [Understanding API Design](https://dzone.com/articles/understanding-api-design)
@@ -261,7 +263,7 @@
 - [MuleSoft: Functional Test Case](https://dzone.com/articles/mulesoft-functional-test-case)
 - [Propagate an Error Response in Mule API](https://dzone.com/articles/propagate-an-error-response-in-mule-api)
 - [Difference between error, debug, warn, fatal, info and trace in Log4j?](https://www.quora.com/What-is-the-difference-between-error-debug-warn-fatal-info-and-trace-in-Log4j)
-[Dynamically Change Logging Level of Application in Mule Run-Time](https://dzone.com/articles/dynamically-change-logging-level-of-application-in)
+- [Dynamically Change Logging Level of Application in Mule Run-Time](https://dzone.com/articles/dynamically-change-logging-level-of-application-in)
 
 ## Anypoint Connectors
 
