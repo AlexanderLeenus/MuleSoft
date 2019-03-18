@@ -196,6 +196,7 @@
 - [RAML or OpenAPI - How About Both?](https://dzone.com/articles/raml-or-openapi-how-about-both)
 - [Understanding Resource Types and Traits With RAML](https://dzone.com/articles/understanding-resourcetypes-and-traits-with-raml)
 - [What is an API Fragment?](https://blogs.mulesoft.com/dev/api-dev/what-is-an-api-fragment/)
+- [Create and Publish a RAML API Fragment in the Code Editor in Design Center](https://docs.mulesoft.com/design-center/design-create-publish-api-fragment)
 
 
 ### Mule Application
