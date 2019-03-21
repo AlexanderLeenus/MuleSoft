@@ -85,6 +85,7 @@
 - [Best practices for Mule project](https://jazzteam.org/en/technical-articles/best-practices-mule-esb/)
 - [Mule Development – Best Practices](https://wp.nyu.edu/developers/2018/03/29/mule-development-best-practices/)
 - [HowTo – Exceptions and Error Handling in Mule](https://blogs.mulesoft.com/dev/howto/howto-exceptions-and-error-handling-in-mule/)
+- [Best Advice for Allocating vCores Across A Large Enterprise API](https://forums.mulesoft.com/questions/45157/best-advice-for-allocating-vcores-across-a-large-e.html?childToView=45427#answer-45427)
 
 #### Coding Best Practices
 - [Programming Best Practices Ever](https://dzone.com/articles/best-best-practices-ever)
@@ -218,8 +219,10 @@
 
 - [Automating API Monitoring Using MuleSoft Flow DesignerAPI-Led Connectivity](https://dzone.com/articles/automating-api-monitoring-using-mulesoft-flow-desi)
 [Create a Cluster Using Runtime Manager (Hybrid) With Mule ESB and Anypoint](https://dzone.com/articles/to-create-a-cluster-using-run-time-manager-hybrid)
+-[How many API's can I deploy to 1 Vcore?](https://forums.mulesoft.com/questions/73879/how-many-apis-can-i-deploy-to-1-vcore.html)
 
-
+#### AnyPoint Monitor / Dashboard
+- [Anypoint Monitoring in Mule](https://dzone.com/articles/anypoint-monitoring-in-mule)
 
 
 #### Data Gateway
@@ -265,6 +268,7 @@
 - [Propagate an Error Response in Mule API](https://dzone.com/articles/propagate-an-error-response-in-mule-api)
 - [Difference between error, debug, warn, fatal, info and trace in Log4j?](https://www.quora.com/What-is-the-difference-between-error-debug-warn-fatal-info-and-trace-in-Log4j)
 - [Dynamically Change Logging Level of Application in Mule Run-Time](https://dzone.com/articles/dynamically-change-logging-level-of-application-in)
+- [How to Debug and Deploy Apps With MuleSoft Anypoint Studio](https://dzone.com/articles/how-easy-to-debug-and-deploy-application-with-mule)
 
 ## Anypoint Connectors
 
